@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OSM test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="coarse_location_permission_required">Coarse location is required to display your current location and use navigation</string>
+    <string name="internet_permission_required">Internet is required to use maps and navigation</string>
+    <string name="ok">OK</string>
+    <string name="permission_granted">Permission is granted.</string>
+    <string name="null_location">Your location is null!</string>
+    <string name="search_edit_text_hint">Search</string>
+    <string name="search_button">Go</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZG92bGV0YmVnZW5qZXYiLCJhIjoiY2wyc3c5Nzc1MDJ2bTNkbzk0cTc5OHZ0ZSJ9.CJwewrk7qCmGvNdgPe2gww</string>
+    <string name="navigate_button">Navigate</string>
+    <string name="from_destination">From</string>
+    <string name="to_destination">To</string>
+</resources>

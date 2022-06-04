@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mapFragment">
+
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="com.example.osmtest.MapFragment"
+        android:label="fragment_map"
+        tools:layout="@layout/fragment_map" >
+        <action
+            android:id="@+id/action_mapFragment_to_suggestionsFragment"
+            app:destination="@id/navigationFragment" />
+        <argument
+            android:name="fromQuery"
+            app:argType="string" />
+        <argument
+            android:name="fromLat"
+            app:argType="float" />
+        <argument
+            android:name="fromLon"
+            app:argType="float" />
+        <argument
+            android:name="toQuery"
+            app:argType="string" />
+        <argument
+            android:name="toLat"
+            app:argType="float" />
+        <argument
+            android:name="toLon"
+            app:argType="float" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigationFragment"
+        android:name="com.example.osmtest.NavigationFragment"
+        android:label="Navigation"
+        tools:layout="@layout/fragment_navigation">
+        <action
+            android:id="@+id/action_suggestionsFragment_to_mapFragment"
+            app:destination="@id/mapFragment" />
+        <argument
+            android:name="from_destination_name"
+            app:argType="string" />
+        <argument
+            android:name="from_destination_lat"
+            app:argType="float" />
+        <argument
+            android:name="from_destination_lon"
+            app:argType="float" />
+    </fragment>
+</navigation>

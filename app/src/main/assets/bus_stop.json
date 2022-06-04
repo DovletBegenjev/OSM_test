@@ -1,0 +1,3290 @@
+[
+    {
+        "busStopId": 1,
+        "busStopLat": 85.0,
+        "busStopLon": 0.0,
+        "busStopName": "Bus stop name"
+    },
+    {
+        "busStopId": 2,
+        "busStopLat": 0.0,
+        "busStopLon": 85.0,
+        "busStopName": "Bus stop name 2"
+    },
+    {
+        "busStopId": 3,
+        "busStopLat": 58.0,
+        "busStopLon": 35.0,
+        "busStopName": "Bus stop"
+    },
+    {
+        "busStopId": 4,
+        "busStopLat": 35.0,
+        "busStopLon": 58.0,
+        "busStopName": "Bus stop 2"
+    },
+    {
+        "busStopId": 5,
+        "busStopLat": 37.9316195,
+        "busStopLon": 58.3686128,
+        "busStopName": "Dalçyn"
+    },
+    {
+        "busStopId": 6,
+        "busStopLat": 37.9312641,
+        "busStopLon": 58.3679073,
+        "busStopName": "Senagatçylar we telekeçiler birleşmesi"
+    },
+    {
+        "busStopId": 7,
+        "busStopLat": 37.9147859,
+        "busStopLon": 58.3639088,
+        "busStopName": "Köpetdag etrap prokuraturasy"
+    },
+    {
+        "busStopId": 8,
+        "busStopLat": 37.9255562,
+        "busStopLon": 58.370559,
+        "busStopName": "Altyn asyr seýilgähi"
+    },
+    {
+        "busStopId": 9,
+        "busStopLat": 37.9229591,
+        "busStopLon": 58.3757234,
+        "busStopName": "Garaşsyzlyk şaýoly, 90"
+    },
+    {
+        "busStopId": 10,
+        "busStopLat": 37.9291437,
+        "busStopLon": 58.3734934,
+        "busStopName": "Oguzken myhmanhanasy"
+    },
+    {
+        "busStopId": 11,
+        "busStopLat": 37.9301788,
+        "busStopLon": 58.3783608,
+        "busStopName": "Mejlis"
+    },
+    {
+        "busStopId": 12,
+        "busStopLat": 37.9207555,
+        "busStopLon": 58.3825205,
+        "busStopName": "17-nji mekdep"
+    },
+    {
+        "busStopId": 13,
+        "busStopLat": 37.9306216,
+        "busStopLon": 58.3752038,
+        "busStopName": "Garaşsyzlygyň seýilgähi"
+    },
+    {
+        "busStopId": 14,
+        "busStopLat": 37.9259234,
+        "busStopLon": 58.3702452,
+        "busStopName": "Bitarap Türkmenistan (Podwoýskowo), 221"
+    },
+    {
+        "busStopId": 15,
+        "busStopLat": 37.9195255,
+        "busStopLon": 58.3697635,
+        "busStopName": "Ertekiler dünýäsi"
+    },
+    {
+        "busStopId": 16,
+        "busStopLat": 37.9201227,
+        "busStopLon": 58.3676341,
+        "busStopName": "37-nji mekdep"
+    },
+    {
+        "busStopId": 17,
+        "busStopLat": 37.8980634,
+        "busStopLon": 58.3789738,
+        "busStopName": "Olimpiýa şäherçesi"
+    },
+    {
+        "busStopId": 18,
+        "busStopLat": 37.8963274,
+        "busStopLon": 58.358257,
+        "busStopName": "Garaşsyzlyk şaýoly, 21"
+    },
+    {
+        "busStopId": 19,
+        "busStopLat": 37.9050477,
+        "busStopLon": 58.3658912,
+        "busStopName": "Garaşsyzlyk şaýoly, 54"
+    },
+    {
+        "busStopId": 20,
+        "busStopLat": 37.8984434,
+        "busStopLon": 58.364035199999996,
+        "busStopName": "Ýörite sazçylyk mekdeb internaty"
+    },
+    {
+        "busStopId": 21,
+        "busStopLat": 37.8960938,
+        "busStopLon": 58.3580765,
+        "busStopName": "Garaşsyzlyk şaýoly, 21"
+    },
+    {
+        "busStopId": 22,
+        "busStopLat": 37.9011992,
+        "busStopLon": 58.3799548,
+        "busStopName": "Parahat 2/1, 10"
+    },
+    {
+        "busStopId": 23,
+        "busStopLat": 37.9006311,
+        "busStopLon": 58.3471053,
+        "busStopName": "Abadançylyk şaýoly, 148"
+    },
+    {
+        "busStopId": 24,
+        "busStopLat": 37.905351,
+        "busStopLon": 58.3651161,
+        "busStopName": "Garaşsyzlyk şaýoly, 51"
+    },
+    {
+        "busStopId": 25,
+        "busStopLat": 37.9048636,
+        "busStopLon": 58.3798089,
+        "busStopName": "Olimpiýa şäherçesi"
+    },
+    {
+        "busStopId": 26,
+        "busStopLat": 37.8995774,
+        "busStopLon": 58.3717175,
+        "busStopName": "Başa baş toplumy"
+    },
+    {
+        "busStopId": 27,
+        "busStopLat": 37.9012599,
+        "busStopLon": 58.37933,
+        "busStopName": "Olimpiýa şäherçesi"
+    },
+    {
+        "busStopId": 28,
+        "busStopLat": 37.899793,
+        "busStopLon": 58.3708909,
+        "busStopName": "Türkmen döwlet ykdysadyýet we dolandyryş instituty"
+    },
+    {
+        "busStopId": 29,
+        "busStopLat": 37.8971868,
+        "busStopLon": 58.3794851,
+        "busStopName": "Parahat 2/2, 13"
+    },
+    {
+        "busStopId": 30,
+        "busStopLat": 37.9183769,
+        "busStopLon": 58.3733888,
+        "busStopName": "Garaşsyzlyk şaýoly, Olimp"
+    },
+    {
+        "busStopId": 31,
+        "busStopLat": 37.9259352,
+        "busStopLon": 58.3742532,
+        "busStopName": "Altyn asyr seýilgähi"
+    },
+    {
+        "busStopId": 32,
+        "busStopLat": 37.9225074,
+        "busStopLon": 58.3615217,
+        "busStopName": "Bitarap Türkmenistan (Podwoýskowo), 159"
+    },
+    {
+        "busStopId": 33,
+        "busStopLat": 37.9155472,
+        "busStopLon": 58.3456621,
+        "busStopName": "Bitarap Türkmenistan (Podwoýskowo), 148"
+    },
+    {
+        "busStopId": 34,
+        "busStopLat": 37.91516,
+        "busStopLon": 58.3440474,
+        "busStopName": "Bitarap Türkmenistan (Podwoýskowo), 131"
+    },
+    {
+        "busStopId": 35,
+        "busStopLat": 37.913782,
+        "busStopLon": 58.3521734,
+        "busStopName": "Polat gurluşyk"
+    },
+    {
+        "busStopId": 36,
+        "busStopLat": 37.9166739,
+        "busStopLon": 58.354973,
+        "busStopName": "Gurbannazar Ezizow köçesi, 36"
+    },
+    {
+        "busStopId": 37,
+        "busStopLat": 37.91494,
+        "busStopLon": 58.3607237,
+        "busStopName": "Dowamat"
+    },
+    {
+        "busStopId": 38,
+        "busStopLat": 37.9192803,
+        "busStopLon": 58.3543651,
+        "busStopName": "Bitarap Türkmenistan (Podwoýskowo), 178"
+    },
+    {
+        "busStopId": 39,
+        "busStopLat": 37.9202695,
+        "busStopLon": 58.35522,
+        "busStopName": "Bagtyýar nesiller çagalar bagy"
+    },
+    {
+        "busStopId": 40,
+        "busStopLat": 37.9188855,
+        "busStopLon": 58.3619479,
+        "busStopName": "Gurbannazar Ezizow köçesi, 19"
+    },
+    {
+        "busStopId": 41,
+        "busStopLat": 37.9206486,
+        "busStopLon": 58.3516995,
+        "busStopName": "74-nji mekdep"
+    },
+    {
+        "busStopId": 42,
+        "busStopLat": 37.9138496,
+        "busStopLon": 58.3577271,
+        "busStopName": "Türkmenstandartlary"
+    },
+    {
+        "busStopId": 43,
+        "busStopLat": 37.9151127,
+        "busStopLon": 58.3506822,
+        "busStopName": "130-nji mekdep, 166-njy çagalar bagy"
+    },
+    {
+        "busStopId": 44,
+        "busStopLat": 37.9130132,
+        "busStopLon": 58.349016,
+        "busStopName": "Türkmenhowaýollary"
+    },
+    {
+        "busStopId": 45,
+        "busStopLat": 37.9131712,
+        "busStopLon": 58.3526571,
+        "busStopName": "Owadan"
+    },
+    {
+        "busStopId": 46,
+        "busStopLat": 37.9319341,
+        "busStopLon": 58.3787725,
+        "busStopName": "Ruhyýet köşgi"
+    },
+    {
+        "busStopId": 47,
+        "busStopLat": 37.9291089,
+        "busStopLon": 58.3775866,
+        "busStopName": "Garaşsyzlygyň seýilgähi"
+    },
+    {
+        "busStopId": 48,
+        "busStopLat": 37.9282745,
+        "busStopLon": 58.3698147,
+        "busStopName": "Oguzkent myhmanhanasy"
+    },
+    {
+        "busStopId": 49,
+        "busStopLat": 37.9243575,
+        "busStopLon": 58.3664778,
+        "busStopName": "Bitarap Türkmenistan (Podwoýskowo), 207"
+    },
+    {
+        "busStopId": 50,
+        "busStopLat": 37.9239663,
+        "busStopLon": 58.3667384,
+        "busStopName": "Bitarap Türkmenistan (Podwoýskowo), 212"
+    },
+    {
+        "busStopId": 51,
+        "busStopLat": 37.9004603,
+        "busStopLon": 58.3881726,
+        "busStopName": "Parahat 2/3, 5"
+    },
+    {
+        "busStopId": 52,
+        "busStopLat": 37.888221,
+        "busStopLon": 58.38754,
+        "busStopName": "Garaşsyzlyk seýilgähi"
+    },
+    {
+        "busStopId": 53,
+        "busStopLat": 37.9024661,
+        "busStopLon": 58.3853599,
+        "busStopName": "Mir bazary"
+    },
+    {
+        "busStopId": 54,
+        "busStopLat": 37.8909209,
+        "busStopLon": 58.3787657,
+        "busStopName": "Ruhnama"
+    },
+    {
+        "busStopId": 55,
+        "busStopLat": 37.8957571,
+        "busStopLon": 58.3943815,
+        "busStopName": "Türkmenistan banky "
+    },
+    {
+        "busStopId": 56,
+        "busStopLat": 37.8972976,
+        "busStopLon": 58.3887514,
+        "busStopName": "Nurmuhammet Andalyp köçesi, 41"
+    },
+    {
+        "busStopId": 57,
+        "busStopLat": 37.9048015,
+        "busStopLon": 58.3804244,
+        "busStopName": "Milli söwda merkezi"
+    },
+    {
+        "busStopId": 58,
+        "busStopLat": 37.895321,
+        "busStopLon": 58.3680108,
+        "busStopName": "Medeniýet instituty"
+    },
+    {
+        "busStopId": 59,
+        "busStopLat": 37.8952768,
+        "busStopLon": 58.3765388,
+        "busStopName": "10 ýyl Abadançylyk şaýoly, 102"
+    },
+    {
+        "busStopId": 60,
+        "busStopLat": 37.9018478,
+        "busStopLon": 58.3911814,
+        "busStopName": "Parahat 4"
+    },
+    {
+        "busStopId": 61,
+        "busStopLat": 37.8833481,
+        "busStopLon": 58.377767,
+        "busStopName": "Aýdym-saz merkezi"
+    },
+    {
+        "busStopId": 62,
+        "busStopLat": 37.893897,
+        "busStopLon": 58.3791179,
+        "busStopName": "Milli seýilgähi"
+    },
+    {
+        "busStopId": 63,
+        "busStopLat": 37.9046095,
+        "busStopLon": 58.3742814,
+        "busStopName": "Aşbagat Olimpiýa stadiony"
+    },
+    {
+        "busStopId": 64,
+        "busStopLat": 37.9059729,
+        "busStopLon": 58.3886633,
+        "busStopName": "Parahat 1"
+    },
+    {
+        "busStopId": 65,
+        "busStopLat": 37.9061899,
+        "busStopLon": 58.3893946,
+        "busStopName": "Parahat 3/1"
+    },
+    {
+        "busStopId": 66,
+        "busStopLat": 37.8980433,
+        "busStopLon": 58.3670876,
+        "busStopName": "Türkmen döwlet ykdysadyýet we dolandyryş instituty"
+    },
+    {
+        "busStopId": 67,
+        "busStopLat": 37.8940343,
+        "busStopLon": 58.3884632,
+        "busStopName": "Paýtagt söwda merkezi"
+    },
+    {
+        "busStopId": 68,
+        "busStopLat": 37.8938945,
+        "busStopLon": 58.3786307,
+        "busStopName": "Senagat bank"
+    },
+    {
+        "busStopId": 69,
+        "busStopLat": 37.8966335,
+        "busStopLon": 58.372097,
+        "busStopName": "Sport myhmanhanasy"
+    },
+    {
+        "busStopId": 70,
+        "busStopLat": 37.8952215,
+        "busStopLon": 58.392514,
+        "busStopName": "10 ýyl Abadançylyk şaýoly, 56"
+    },
+    {
+        "busStopId": 71,
+        "busStopLat": 37.9118517,
+        "busStopLon": 58.3898176,
+        "busStopName": "Nurmuhammet Andalyp köçesi, 43/3"
+    },
+    {
+        "busStopId": 72,
+        "busStopLat": 37.8833106,
+        "busStopLon": 58.377389,
+        "busStopName": "Aýdym-saz merkezi"
+    },
+    {
+        "busStopId": 73,
+        "busStopLat": 37.8833006,
+        "busStopLon": 58.3936564,
+        "busStopName": "83-nji mekdep"
+    },
+    {
+        "busStopId": 74,
+        "busStopLat": 37.9104416,
+        "busStopLon": 58.3851479,
+        "busStopName": "AÝGB 171"
+    },
+    {
+        "busStopId": 75,
+        "busStopLat": 37.9078186,
+        "busStopLon": 58.3657765,
+        "busStopName": "Garaşsyzlyk şaýoly, 58"
+    },
+    {
+        "busStopId": 76,
+        "busStopLat": 37.9093751,
+        "busStopLon": 58.3810873,
+        "busStopName": "Parahat 1, 3"
+    },
+    {
+        "busStopId": 77,
+        "busStopLat": 37.9113961,
+        "busStopLon": 58.3672581,
+        "busStopName": "Puşkin adyndaky mekdebi"
+    },
+    {
+        "busStopId": 78,
+        "busStopLat": 37.9105868,
+        "busStopLon": 58.3914583,
+        "busStopName": "Ýunus dükany"
+    },
+    {
+        "busStopId": 79,
+        "busStopLat": 37.9101512,
+        "busStopLon": 58.3913946,
+        "busStopName": "Ýunus dükany"
+    },
+    {
+        "busStopId": 80,
+        "busStopLat": 37.9093149,
+        "busStopLon": 58.3804089,
+        "busStopName": "Olimpiýa şäherçesi"
+    },
+    {
+        "busStopId": 81,
+        "busStopLat": 37.9115986,
+        "busStopLon": 58.3775692,
+        "busStopName": "Ýeňil atletika toplumy"
+    },
+    {
+        "busStopId": 82,
+        "busStopLat": 37.9112924,
+        "busStopLon": 58.3839354,
+        "busStopName": "AÝGB 171"
+    },
+    {
+        "busStopId": 83,
+        "busStopLat": 37.8957362,
+        "busStopLon": 58.3903494,
+        "busStopName": "Parahat 4"
+    },
+    {
+        "busStopId": 84,
+        "busStopLat": 37.8999366,
+        "busStopLon": 58.3889354,
+        "busStopName": "Santa Barbara"
+    },
+    {
+        "busStopId": 85,
+        "busStopLat": 37.8955848,
+        "busStopLon": 58.402273,
+        "busStopName": "135-nji mekdep"
+    },
+    {
+        "busStopId": 86,
+        "busStopLat": 37.8812632,
+        "busStopLon": 58.377644600000004,
+        "busStopName": "Garaşsyzlyk binasy"
+    },
+    {
+        "busStopId": 87,
+        "busStopLat": 37.880598,
+        "busStopLon": 58.3943667,
+        "busStopName": "Arçabil şaýoly, 131"
+    },
+    {
+        "busStopId": 88,
+        "busStopLat": 37.8959816,
+        "busStopLon": 58.3769974,
+        "busStopName": "Olimpiýa myhmanhanasy"
+    },
+    {
+        "busStopId": 89,
+        "busStopLat": 37.8909455,
+        "busStopLon": 58.3782879,
+        "busStopName": "Ruhnama"
+    },
+    {
+        "busStopId": 90,
+        "busStopLat": 37.9101207,
+        "busStopLon": 58.4023154,
+        "busStopName": "Garaşsyzlygyň 15 ýyllygy (Optowka) söwda merkezi"
+    },
+    {
+        "busStopId": 91,
+        "busStopLat": 37.9086954,
+        "busStopLon": 58.3974779,
+        "busStopName": "Parahat 6, 29"
+    },
+    {
+        "busStopId": 92,
+        "busStopLat": 37.9101054,
+        "busStopLon": 58.3954964,
+        "busStopName": "Rysgal bank"
+    },
+    {
+        "busStopId": 93,
+        "busStopLat": 37.908731,
+        "busStopLon": 58.3896613,
+        "busStopName": "Parahat 6, 84"
+    },
+    {
+        "busStopId": 94,
+        "busStopLat": 37.9078453,
+        "busStopLon": 58.3980322,
+        "busStopName": "Parahat 5, 50"
+    },
+    {
+        "busStopId": 95,
+        "busStopLat": 37.9036228,
+        "busStopLon": 58.3975113,
+        "busStopName": "Parahat 3/2, 22"
+    },
+    {
+        "busStopId": 96,
+        "busStopLat": 37.9018551,
+        "busStopLon": 58.3951139,
+        "busStopName": "57-nji mekdep"
+    },
+    {
+        "busStopId": 97,
+        "busStopLat": 37.8966098,
+        "busStopLon": 58.3967308,
+        "busStopName": "Ankara köçesi, 53"
+    },
+    {
+        "busStopId": 98,
+        "busStopLat": 37.8949912,
+        "busStopLon": 58.4093493,
+        "busStopName": "Parahat 7/4, 41"
+    },
+    {
+        "busStopId": 99,
+        "busStopLat": 37.8913648,
+        "busStopLon": 58.4057198,
+        "busStopName": "Parahat 7/4, 25"
+    },
+    {
+        "busStopId": 100,
+        "busStopLat": 37.8868546,
+        "busStopLon": 58.4056479,
+        "busStopName": "Parahat 7/5, 30"
+    },
+    {
+        "busStopId": 101,
+        "busStopLat": 37.8910914,
+        "busStopLon": 58.4054754,
+        "busStopName": "Parahat 7/4, 21"
+    },
+    {
+        "busStopId": 102,
+        "busStopLat": 37.8865496,
+        "busStopLon": 58.4053451,
+        "busStopName": "Parahat 7/5, 26"
+    },
+    {
+        "busStopId": 103,
+        "busStopLat": 37.903795,
+        "busStopLon": 58.3892791,
+        "busStopName": "Parahat 3/1"
+    },
+    {
+        "busStopId": 104,
+        "busStopLat": 37.8954668,
+        "busStopLon": 58.4085203,
+        "busStopName": "Parahat 7/3, 7"
+    },
+    {
+        "busStopId": 105,
+        "busStopLat": 37.9033546,
+        "busStopLon": 58.4059312,
+        "busStopName": "Türkmenbaşy adyndaky dokma toplumy"
+    },
+    {
+        "busStopId": 106,
+        "busStopLat": 37.9099867,
+        "busStopLon": 58.4080617,
+        "busStopName": "Türkmenistan kinoteatry"
+    },
+    {
+        "busStopId": 107,
+        "busStopLat": 37.9005357,
+        "busStopLon": 58.4081864,
+        "busStopName": "Türkmenbaşy adyndaky dokma toplumy"
+    },
+    {
+        "busStopId": 108,
+        "busStopLat": 37.9004214,
+        "busStopLon": 58.4086946,
+        "busStopName": "Türkmenbaşy adyndaky dokma toplumy"
+    },
+    {
+        "busStopId": 109,
+        "busStopLat": 37.8747769,
+        "busStopLon": 58.3870959,
+        "busStopName": "Nebitgaz uniwersiteti"
+    },
+    {
+        "busStopId": 110,
+        "busStopLat": 37.8880776,
+        "busStopLon": 58.3946994,
+        "busStopName": "Arçabil şaýoly, 109"
+    },
+    {
+        "busStopId": 111,
+        "busStopLat": 37.8790509,
+        "busStopLon": 58.3930211,
+        "busStopName": "Arçabil şaýoly, 131"
+    },
+    {
+        "busStopId": 112,
+        "busStopLat": 37.8796171,
+        "busStopLon": 58.3804549,
+        "busStopName": "Garaşsyzlyk binasy"
+    },
+    {
+        "busStopId": 113,
+        "busStopLat": 37.8785108,
+        "busStopLon": 58.3927078,
+        "busStopName": "Nebit gaz uniwersiteti"
+    },
+    {
+        "busStopId": 114,
+        "busStopLat": 37.9021075,
+        "busStopLon": 58.3911871,
+        "busStopName": "Parahat 3/1"
+    },
+    {
+        "busStopId": 115,
+        "busStopLat": 37.8953934,
+        "busStopLon": 58.4174306,
+        "busStopName": "Parahat 7/2, 7"
+    },
+    {
+        "busStopId": 116,
+        "busStopLat": 37.8764954,
+        "busStopLon": 58.3767387,
+        "busStopName": "Beýik Saparmyrat Türkmenbaşy şaýoly"
+    },
+    {
+        "busStopId": 117,
+        "busStopLat": 37.8949377,
+        "busStopLon": 58.3687191,
+        "busStopName": "Berkarar söwda we dynç alyş merkezi"
+    },
+    {
+        "busStopId": 118,
+        "busStopLat": 37.8798883,
+        "busStopLon": 58.3939632,
+        "busStopName": "Arçabil şaýoly, 131"
+    },
+    {
+        "busStopId": 119,
+        "busStopLat": 37.8797121,
+        "busStopLon": 58.3755708,
+        "busStopName": "Arçabil şaýoly, 166"
+    },
+    {
+        "busStopId": 120,
+        "busStopLat": 37.8788098,
+        "busStopLon": 58.3748842,
+        "busStopName": "Olimpiýa sport köşgi"
+    },
+    {
+        "busStopId": 121,
+        "busStopLat": 37.8790848,
+        "busStopLon": 58.3717569,
+        "busStopName": "Arçabil şaýoly"
+    },
+    {
+        "busStopId": 122,
+        "busStopLat": 37.8735684,
+        "busStopLon": 58.3691622,
+        "busStopName": "Çandybil şaýoly"
+    },
+    {
+        "busStopId": 123,
+        "busStopLat": 37.8726616,
+        "busStopLon": 58.3700682,
+        "busStopName": "Çandybil şaýoly"
+    },
+    {
+        "busStopId": 124,
+        "busStopLat": 37.869764,
+        "busStopLon": 58.3867613,
+        "busStopName": "Nurmuhammet Andalyp köçesi"
+    },
+    {
+        "busStopId": 125,
+        "busStopLat": 37.8725669,
+        "busStopLon": 58.3823965,
+        "busStopName": "Çandybil şaýoly"
+    },
+    {
+        "busStopId": 126,
+        "busStopLat": 37.8644184,
+        "busStopLon": 58.3761835,
+        "busStopName": "Beýik Saparmyrat Türkmenbaşy şaýoly"
+    },
+    {
+        "busStopId": 127,
+        "busStopLat": 37.8509024,
+        "busStopLon": 58.3744131,
+        "busStopName": "Berzeňňi ýoly"
+    },
+    {
+        "busStopId": 128,
+        "busStopLat": 37.8949468,
+        "busStopLon": 58.4128228,
+        "busStopName": "Parahat 7/4, 37"
+    },
+    {
+        "busStopId": 129,
+        "busStopLat": 37.8948706,
+        "busStopLon": 58.4182596,
+        "busStopName": "170-nji çagalar bagy"
+    },
+    {
+        "busStopId": 130,
+        "busStopLat": 37.8783214,
+        "busStopLon": 58.4205373,
+        "busStopName": "Ak bugdaý binasy"
+    },
+    {
+        "busStopId": 131,
+        "busStopLat": 37.8983664,
+        "busStopLon": 58.4234954,
+        "busStopName": "Parahat 7/2, 19"
+    },
+    {
+        "busStopId": 132,
+        "busStopLat": 37.8954384,
+        "busStopLon": 58.411968,
+        "busStopName": "Parahat 7/3, 2"
+    },
+    {
+        "busStopId": 133,
+        "busStopLat": 37.9097685,
+        "busStopLon": 58.4266654,
+        "busStopName": "Oguzhan köçesi, 1A"
+    },
+    {
+        "busStopId": 134,
+        "busStopLat": 37.9086027,
+        "busStopLon": 58.4230607,
+        "busStopName": "Ene we çaga keselhanasy"
+    },
+    {
+        "busStopId": 135,
+        "busStopLat": 37.900357,
+        "busStopLon": 58.4155601,
+        "busStopName": "Parahat 7/1, 9"
+    },
+    {
+        "busStopId": 136,
+        "busStopLat": 37.8972588,
+        "busStopLon": 58.4230367,
+        "busStopName": "Parahat 7/2, 15"
+    },
+    {
+        "busStopId": 137,
+        "busStopLat": 37.9002187,
+        "busStopLon": 58.4210087,
+        "busStopName": "Parahat 7/2, 28"
+    },
+    {
+        "busStopId": 138,
+        "busStopLat": 37.9025614,
+        "busStopLon": 58.4056093,
+        "busStopName": "Türkmenbaşy adyndaky dokma toplumy"
+    },
+    {
+        "busStopId": 139,
+        "busStopLat": 37.9029631,
+        "busStopLon": 58.4231303,
+        "busStopName": "Parahat 7, 15"
+    },
+    {
+        "busStopId": 140,
+        "busStopLat": 37.9099608,
+        "busStopLon": 58.412655,
+        "busStopName": "Energetik orta hünär mekdebi"
+    },
+    {
+        "busStopId": 141,
+        "busStopLat": 37.9098753,
+        "busStopLon": 58.4184984,
+        "busStopName": "Nyýazow keselhanasy"
+    },
+    {
+        "busStopId": 142,
+        "busStopLat": 37.9103014,
+        "busStopLon": 58.4156759,
+        "busStopName": "Oguzhan köçesi, 48"
+    },
+    {
+        "busStopId": 143,
+        "busStopLat": 37.9101502,
+        "busStopLon": 58.4272452,
+        "busStopName": "Oguzhan köçesi, 30/1"
+    },
+    {
+        "busStopId": 144,
+        "busStopLat": 37.9004718,
+        "busStopLon": 58.4142513,
+        "busStopName": "Bereketli söwda merkezi"
+    },
+    {
+        "busStopId": 145,
+        "busStopLat": 37.9029613,
+        "busStopLon": 58.4235854,
+        "busStopName": "Parahat 7, 15"
+    },
+    {
+        "busStopId": 146,
+        "busStopLat": 37.912007,
+        "busStopLon": 58.4057852,
+        "busStopName": "100 fontan"
+    },
+    {
+        "busStopId": 147,
+        "busStopLat": 37.9104565,
+        "busStopLon": 58.402429,
+        "busStopName": "Garaşsyzlygyň 15 ýyllygy (Optowka) söwda merkezi"
+    },
+    {
+        "busStopId": 148,
+        "busStopLat": 37.9096962,
+        "busStopLon": 58.4343806,
+        "busStopName": "Gündogar bazary"
+    },
+    {
+        "busStopId": 149,
+        "busStopLat": 37.910401,
+        "busStopLon": 58.4364484,
+        "busStopName": "Gündogar bazary"
+    },
+    {
+        "busStopId": 150,
+        "busStopLat": 37.910365,
+        "busStopLon": 58.4110043,
+        "busStopName": "Oguzhan köçesi, 56"
+    },
+    {
+        "busStopId": 151,
+        "busStopLat": 37.9138498,
+        "busStopLon": 58.4231548,
+        "busStopName": "Azatlyk (Daşoguz) bazary"
+    },
+    {
+        "busStopId": 152,
+        "busStopLat": 37.9147154,
+        "busStopLon": 58.4060334,
+        "busStopName": "100 fontan"
+    },
+    {
+        "busStopId": 153,
+        "busStopLat": 37.9148278,
+        "busStopLon": 58.4237189,
+        "busStopName": "Azatlyk (Daşoguz) bazary"
+    },
+    {
+        "busStopId": 154,
+        "busStopLat": 37.9188362,
+        "busStopLon": 58.4110771,
+        "busStopName": "Atamyrat Nyýazow şaýoly, 1A"
+    },
+    {
+        "busStopId": 155,
+        "busStopLat": 37.9184477,
+        "busStopLon": 58.4109694,
+        "busStopName": "Atamyrat Nyýazow şaýoly, 72/1"
+    },
+    {
+        "busStopId": 156,
+        "busStopLat": 37.918892,
+        "busStopLon": 58.4043801,
+        "busStopName": "AŞGT"
+    },
+    {
+        "busStopId": 157,
+        "busStopLat": 37.9202475,
+        "busStopLon": 58.4134881,
+        "busStopName": "Lälezar bazary"
+    },
+    {
+        "busStopId": 158,
+        "busStopLat": 37.9182128,
+        "busStopLon": 58.4262649,
+        "busStopName": "Atamyrat Nyýazow şaýoly, Altyn açar"
+    },
+    {
+        "busStopId": 159,
+        "busStopLat": 37.9257228,
+        "busStopLon": 58.4062939,
+        "busStopName": "WDNH"
+    },
+    {
+        "busStopId": 160,
+        "busStopLat": 37.9262892,
+        "busStopLon": 58.4179695,
+        "busStopName": "Goçgar ata gonamçylygy"
+    },
+    {
+        "busStopId": 161,
+        "busStopLat": 37.9248019,
+        "busStopLon": 58.4095468,
+        "busStopName": "95-nji çagalar bagy"
+    },
+    {
+        "busStopId": 162,
+        "busStopLat": 37.9201554,
+        "busStopLon": 58.4139365,
+        "busStopName": "Lälezar bazary"
+    },
+    {
+        "busStopId": 163,
+        "busStopLat": 37.9187524,
+        "busStopLon": 58.4161884,
+        "busStopName": "Atamyrat Nyýazow şaýoly, 63-67"
+    },
+    {
+        "busStopId": 164,
+        "busStopLat": 37.920605,
+        "busStopLon": 58.4240351,
+        "busStopName": "Bank mekdebi"
+    },
+    {
+        "busStopId": 165,
+        "busStopLat": 37.9183338,
+        "busStopLon": 58.419496,
+        "busStopName": "Atamyrat Nyýazow şaýoly, 92/2"
+    },
+    {
+        "busStopId": 166,
+        "busStopLat": 37.9100084,
+        "busStopLon": 58.4327465,
+        "busStopName": "Gündogar bazary"
+    },
+    {
+        "busStopId": 167,
+        "busStopLat": 37.9177478,
+        "busStopLon": 58.4058719,
+        "busStopName": "Alty Garlyýew (Surikow) köçesi, 60"
+    },
+    {
+        "busStopId": 168,
+        "busStopLat": 37.9228027,
+        "busStopLon": 58.4136495,
+        "busStopName": "57-nji çagalar bagy"
+    },
+    {
+        "busStopId": 169,
+        "busStopLat": 37.9328871,
+        "busStopLon": 58.4154232,
+        "busStopName": "Gurbansoltan eje köçesi (Steklozawod)"
+    },
+    {
+        "busStopId": 170,
+        "busStopLat": 37.9302188,
+        "busStopLon": 58.4106511,
+        "busStopName": "Läle restorany"
+    },
+    {
+        "busStopId": 171,
+        "busStopLat": 37.9347934,
+        "busStopLon": 58.4110619,
+        "busStopName": "Gurbansoltan eje köçesi (Steklozawod)"
+    },
+    {
+        "busStopId": 172,
+        "busStopLat": 37.9320078,
+        "busStopLon": 58.4315613,
+        "busStopName": "Aşgabat aýlawy (Ippodrom)"
+    },
+    {
+        "busStopId": 173,
+        "busStopLat": 37.9254909,
+        "busStopLon": 58.4333316,
+        "busStopName": "Binagärlik gurluşyk instituty"
+    },
+    {
+        "busStopId": 174,
+        "busStopLat": 37.9251892,
+        "busStopLon": 58.4327872,
+        "busStopName": "Binagärlik gurluşyk instituty"
+    },
+    {
+        "busStopId": 175,
+        "busStopLat": 37.9279965,
+        "busStopLon": 58.4047359,
+        "busStopName": "Görogly köçesi, 63"
+    },
+    {
+        "busStopId": 176,
+        "busStopLat": 37.9353819,
+        "busStopLon": 58.41073,
+        "busStopName": "Gurbansoltan eje köçesi (Steklozawod)"
+    },
+    {
+        "busStopId": 177,
+        "busStopLat": 37.9191946,
+        "busStopLon": 58.4003333,
+        "busStopName": "Atamyrat Nyýazow (Gagarina) şaýoly"
+    },
+    {
+        "busStopId": 178,
+        "busStopLat": 37.9196452,
+        "busStopLon": 58.4002512,
+        "busStopName": "Atamyrat Nyýazow (Gagarina) şaýoly"
+    },
+    {
+        "busStopId": 179,
+        "busStopLat": 37.9104128,
+        "busStopLon": 58.4071653,
+        "busStopName": "Türkmenistan kinoteatry"
+    },
+    {
+        "busStopId": 180,
+        "busStopLat": 37.9199505,
+        "busStopLon": 58.4061857,
+        "busStopName": "Alty Garlyýew (Surikow) köçesi, 3"
+    },
+    {
+        "busStopId": 181,
+        "busStopLat": 37.9104797,
+        "busStopLon": 58.3960647,
+        "busStopName": "Rysgal bank"
+    },
+    {
+        "busStopId": 182,
+        "busStopLat": 37.9263829,
+        "busStopLon": 58.4064414,
+        "busStopName": "WDNH"
+    },
+    {
+        "busStopId": 183,
+        "busStopLat": 37.9283033,
+        "busStopLon": 58.4037408,
+        "busStopName": "WDNH"
+    },
+    {
+        "busStopId": 184,
+        "busStopLat": 37.9267269,
+        "busStopLon": 58.3914663,
+        "busStopName": "Nurmuhammet Andalyp köçesi, 33/1"
+    },
+    {
+        "busStopId": 185,
+        "busStopLat": 37.9223485,
+        "busStopLon": 58.3879027,
+        "busStopName": "Ýer titreme mazarlygy "
+    },
+    {
+        "busStopId": 186,
+        "busStopLat": 37.9125813,
+        "busStopLon": 58.3975708,
+        "busStopName": "Howdan W, 66"
+    },
+    {
+        "busStopId": 187,
+        "busStopLat": 37.9233569,
+        "busStopLon": 58.3895593,
+        "busStopName": "Ýer titreme mazarlygy "
+    },
+    {
+        "busStopId": 188,
+        "busStopLat": 37.9041491,
+        "busStopLon": 58.3979839,
+        "busStopName": "Parahat 3/2, Awto ýoly"
+    },
+    {
+        "busStopId": 189,
+        "busStopLat": 37.9020978,
+        "busStopLon": 58.3959671,
+        "busStopName": "57-nji mekdep"
+    },
+    {
+        "busStopId": 190,
+        "busStopLat": 37.9287116,
+        "busStopLon": 58.4134319,
+        "busStopName": "Goçgar ata gonamçylygy"
+    },
+    {
+        "busStopId": 191,
+        "busStopLat": 37.9207887,
+        "busStopLon": 58.3894692,
+        "busStopName": "Gaudan 5"
+    },
+    {
+        "busStopId": 192,
+        "busStopLat": 37.9184657,
+        "busStopLon": 58.407341,
+        "busStopName": "Atamyrat Nyýazow şaýoly, 64/1"
+    },
+    {
+        "busStopId": 193,
+        "busStopLat": 37.920365,
+        "busStopLon": 58.3957175,
+        "busStopName": "Mäliýe instituty"
+    },
+    {
+        "busStopId": 194,
+        "busStopLat": 37.9241328,
+        "busStopLon": 58.3800771,
+        "busStopName": "Halkbank"
+    },
+    {
+        "busStopId": 195,
+        "busStopLat": 37.920189,
+        "busStopLon": 58.3885816,
+        "busStopName": "Nurmuhammet Andalyp köçesi, 64/1"
+    },
+    {
+        "busStopId": 196,
+        "busStopLat": 37.9264365,
+        "busStopLon": 58.3841871,
+        "busStopName": "Harby instituty"
+    },
+    {
+        "busStopId": 197,
+        "busStopLat": 37.911857,
+        "busStopLon": 58.389042,
+        "busStopName": "Nurmuhammet Andalyp köçesi, 51/1"
+    },
+    {
+        "busStopId": 198,
+        "busStopLat": 37.9155751,
+        "busStopLon": 58.3814756,
+        "busStopName": "Ýimpaş söwda merkezi"
+    },
+    {
+        "busStopId": 199,
+        "busStopLat": 37.9244422,
+        "busStopLon": 58.3800958,
+        "busStopName": "Halkbank"
+    },
+    {
+        "busStopId": 200,
+        "busStopLat": 37.9219303,
+        "busStopLon": 58.3825368,
+        "busStopName": "Ruhnama mekdebi"
+    },
+    {
+        "busStopId": 201,
+        "busStopLat": 37.9210316,
+        "busStopLon": 58.3944836,
+        "busStopName": "Mäliýe instituty"
+    },
+    {
+        "busStopId": 202,
+        "busStopLat": 37.9293326,
+        "busStopLon": 58.385287,
+        "busStopName": "Goranmak ministrligi"
+    },
+    {
+        "busStopId": 203,
+        "busStopLat": 37.915811,
+        "busStopLon": 58.3748842,
+        "busStopName": "Suw toplumy"
+    },
+    {
+        "busStopId": 204,
+        "busStopLat": 37.9273094,
+        "busStopLon": 58.3849563,
+        "busStopName": "Harby instituty"
+    },
+    {
+        "busStopId": 205,
+        "busStopLat": 37.9117717,
+        "busStopLon": 58.3767127,
+        "busStopName": "Ýeňil atletika toplumy"
+    },
+    {
+        "busStopId": 206,
+        "busStopLat": 37.9156095,
+        "busStopLon": 58.3738643,
+        "busStopName": "Suw toplumy"
+    },
+    {
+        "busStopId": 207,
+        "busStopLat": 37.9093814,
+        "busStopLon": 58.3758102,
+        "busStopName": "Ýaýlyma beriş merkezi"
+    },
+    {
+        "busStopId": 208,
+        "busStopLat": 37.9155308,
+        "busStopLon": 58.3649518,
+        "busStopName": "Gujurly inžener"
+    },
+    {
+        "busStopId": 209,
+        "busStopLat": 37.9135901,
+        "busStopLon": 58.3701338,
+        "busStopName": "Garaşsyzlyk şaýoly"
+    },
+    {
+        "busStopId": 210,
+        "busStopLat": 37.9222621,
+        "busStopLon": 58.3626764,
+        "busStopName": "Bitarap Türkmenistan (Podwoýskowo), 202"
+    },
+    {
+        "busStopId": 211,
+        "busStopLat": 37.9226061,
+        "busStopLon": 58.3882193,
+        "busStopName": "Ýer titreme mazarlygy "
+    },
+    {
+        "busStopId": 212,
+        "busStopLat": 37.9224755,
+        "busStopLon": 58.3750504,
+        "busStopName": "Ertekiler dünýäsi"
+    },
+    {
+        "busStopId": 213,
+        "busStopLat": 37.9155089,
+        "busStopLon": 58.3692576,
+        "busStopName": "Bagtyýarlyk söwda merkezi"
+    },
+    {
+        "busStopId": 214,
+        "busStopLat": 37.918006,
+        "busStopLon": 58.3488906,
+        "busStopName": "Bitarap Türkmenistan (Podwoýskowo)"
+    },
+    {
+        "busStopId": 215,
+        "busStopLat": 37.9100982,
+        "busStopLon": 58.3401834,
+        "busStopName": "Bitarap Türkmenistan (Podwoýskowo), 128"
+    },
+    {
+        "busStopId": 216,
+        "busStopLat": 37.9253388,
+        "busStopLon": 58.3426658,
+        "busStopName": "Bagt köşgi"
+    },
+    {
+        "busStopId": 217,
+        "busStopLat": 37.9030657,
+        "busStopLon": 58.3400321,
+        "busStopName": "Abadançylyk şaýoly, 162"
+    },
+    {
+        "busStopId": 218,
+        "busStopLat": 37.9023271,
+        "busStopLon": 58.3359659,
+        "busStopName": "Kärizli söwda dükany"
+    },
+    {
+        "busStopId": 219,
+        "busStopLat": 37.9144975,
+        "busStopLon": 58.3577807,
+        "busStopName": "Nusaý ýollary"
+    },
+    {
+        "busStopId": 220,
+        "busStopLat": 37.9174136,
+        "busStopLon": 58.3492625,
+        "busStopName": "Bitarap Türkmenistan (Podwoýskowo), 160"
+    },
+    {
+        "busStopId": 221,
+        "busStopLat": 37.9138111,
+        "busStopLon": 58.3336313,
+        "busStopName": "Golf klub"
+    },
+    {
+        "busStopId": 222,
+        "busStopLat": 37.9141696,
+        "busStopLon": 58.332829,
+        "busStopName": "Golf klub"
+    },
+    {
+        "busStopId": 223,
+        "busStopLat": 37.9065505,
+        "busStopLon": 58.3330211,
+        "busStopName": "10 ýyl Abadançylyk şaýoly"
+    },
+    {
+        "busStopId": 224,
+        "busStopLat": 37.9056828,
+        "busStopLon": 58.3331579,
+        "busStopName": "10 ýyl Abadançylyk şaýoly"
+    },
+    {
+        "busStopId": 225,
+        "busStopLat": 37.8994025,
+        "busStopLon": 58.3357144,
+        "busStopName": "Bugdaýli çörek"
+    },
+    {
+        "busStopId": 226,
+        "busStopLat": 37.9290947,
+        "busStopLon": 58.3129414,
+        "busStopName": "Bekrewe köçesi"
+    },
+    {
+        "busStopId": 227,
+        "busStopLat": 37.9276185,
+        "busStopLon": 58.3402287,
+        "busStopName": "Bagt köşgi"
+    },
+    {
+        "busStopId": 228,
+        "busStopLat": 37.9073441,
+        "busStopLon": 58.3208546,
+        "busStopName": "10 ýyl Abadançylyk şaýoly"
+    },
+    {
+        "busStopId": 229,
+        "busStopLat": 37.9105115,
+        "busStopLon": 58.3395392,
+        "busStopName": "Bitarap Türkmenistan (Podwoýskowo), 128"
+    },
+    {
+        "busStopId": 230,
+        "busStopLat": 37.8900286,
+        "busStopLon": 58.3277901,
+        "busStopName": "Çandybil şaýoly"
+    },
+    {
+        "busStopId": 231,
+        "busStopLat": 37.8960247,
+        "busStopLon": 58.3114721,
+        "busStopName": "Parahat dynç alyş zolagy"
+    },
+    {
+        "busStopId": 232,
+        "busStopLat": 37.8689684,
+        "busStopLon": 58.346116,
+        "busStopName": "Atatürk köçesi, parkowka"
+    },
+    {
+        "busStopId": 233,
+        "busStopLat": 37.8908059,
+        "busStopLon": 58.3447645,
+        "busStopName": "Nebitgaz toplumy"
+    },
+    {
+        "busStopId": 234,
+        "busStopLat": 37.8936478,
+        "busStopLon": 58.3347906,
+        "busStopName": "Bitaraplyk şaýoly, 76"
+    },
+    {
+        "busStopId": 235,
+        "busStopLat": 37.8998867,
+        "busStopLon": 58.3533392,
+        "busStopName": "Abadançylyk şaýoly, 137"
+    },
+    {
+        "busStopId": 236,
+        "busStopLat": 37.8924395,
+        "busStopLon": 58.3556557,
+        "busStopName": "Garaşsyzlyk şaýoly, 12"
+    },
+    {
+        "busStopId": 237,
+        "busStopLat": 37.896224,
+        "busStopLon": 58.3581737,
+        "busStopName": "Garaşsyzlyk şaýoly, 21"
+    },
+    {
+        "busStopId": 238,
+        "busStopLat": 37.8977978,
+        "busStopLon": 58.3639011,
+        "busStopName": "Ýörite sazçylyk mekdeb internaty"
+    },
+    {
+        "busStopId": 239,
+        "busStopLat": 37.8843395,
+        "busStopLon": 58.3576339,
+        "busStopName": "Arçabil şaýoly, 30"
+    },
+    {
+        "busStopId": 240,
+        "busStopLat": 37.8730071,
+        "busStopLon": 58.349443,
+        "busStopName": "Hirurgiýa we endokrinologiýa merkezi"
+    },
+    {
+        "busStopId": 241,
+        "busStopLat": 37.8811351,
+        "busStopLon": 58.3511215,
+        "busStopName": "Çandybil şaýoly"
+    },
+    {
+        "busStopId": 242,
+        "busStopLat": 37.8966171,
+        "busStopLon": 58.3594384,
+        "busStopName": "Zehini ýaşlar mekdebi"
+    },
+    {
+        "busStopId": 243,
+        "busStopLat": 37.8929038,
+        "busStopLon": 58.3551868,
+        "busStopName": "Garaşsyzlyk şaýoly, ö"
+    },
+    {
+        "busStopId": 244,
+        "busStopLat": 37.8941829,
+        "busStopLon": 58.3408361,
+        "busStopName": "Ýedigen myhmanhanasy"
+    },
+    {
+        "busStopId": 245,
+        "busStopLat": 37.8869742,
+        "busStopLon": 58.3552137,
+        "busStopName": "ABM biznes sentry"
+    },
+    {
+        "busStopId": 246,
+        "busStopLat": 37.8893887,
+        "busStopLon": 58.3520854,
+        "busStopName": "Altyn suw myhmanhana"
+    },
+    {
+        "busStopId": 247,
+        "busStopLat": 37.885146,
+        "busStopLon": 58.3588217,
+        "busStopName": "Daýanç myhmanhanasy"
+    },
+    {
+        "busStopId": 248,
+        "busStopLat": 37.871235,
+        "busStopLon": 58.356946,
+        "busStopName": "Iç keselleri merkezi"
+    },
+    {
+        "busStopId": 249,
+        "busStopLat": 37.8875903,
+        "busStopLon": 58.3624843,
+        "busStopName": "Atatürk köçesi, 99"
+    },
+    {
+        "busStopId": 250,
+        "busStopLat": 37.8858483,
+        "busStopLon": 58.3574367,
+        "busStopName": "Köpetdag myhmanhanasy"
+    },
+    {
+        "busStopId": 251,
+        "busStopLat": 37.8788836,
+        "busStopLon": 58.3618854,
+        "busStopName": "Beýik Serdar Nesilleri mekdebi"
+    },
+    {
+        "busStopId": 252,
+        "busStopLat": 37.8882342,
+        "busStopLon": 58.3619842,
+        "busStopName": "Atatürk köçesi, 95"
+    },
+    {
+        "busStopId": 253,
+        "busStopLat": 37.8758409,
+        "busStopLon": 58.3621435,
+        "busStopName": "Beýik Serdar Nesilleri çagalar bagy"
+    },
+    {
+        "busStopId": 254,
+        "busStopLat": 37.8767584,
+        "busStopLon": 58.3525309,
+        "busStopName": "Newrologiýa merkezi"
+    },
+    {
+        "busStopId": 255,
+        "busStopLat": 37.88038,
+        "busStopLon": 58.365551,
+        "busStopName": "Saglyk ministrligi"
+    },
+    {
+        "busStopId": 256,
+        "busStopLat": 37.8889957,
+        "busStopLon": 58.3526752,
+        "busStopName": "Hytaýyň ilçihanasy"
+    },
+    {
+        "busStopId": 257,
+        "busStopLat": 37.8800429,
+        "busStopLon": 58.3515781,
+        "busStopName": "Çandybil şaýoly"
+    },
+    {
+        "busStopId": 258,
+        "busStopLat": 37.8872224,
+        "busStopLon": 58.3519366,
+        "busStopName": "Türkmenistanyň milli muzeýi"
+    },
+    {
+        "busStopId": 259,
+        "busStopLat": 37.8838251,
+        "busStopLon": 58.3442307,
+        "busStopName": "Çandybil şaýoly"
+    },
+    {
+        "busStopId": 260,
+        "busStopLat": 37.8987721,
+        "busStopLon": 58.3347713,
+        "busStopName": "Bitarap Türkmenistan (Podwoýskowo) şaýoly, 85"
+    },
+    {
+        "busStopId": 261,
+        "busStopLat": 37.8898883,
+        "busStopLon": 58.2955494,
+        "busStopName": "Söwda-Senagat edarasy"
+    },
+    {
+        "busStopId": 262,
+        "busStopLat": 37.8960665,
+        "busStopLon": 58.3223443,
+        "busStopName": "Türkmenistanyň konstitusiýa binasy"
+    },
+    {
+        "busStopId": 263,
+        "busStopLat": 37.9007511,
+        "busStopLon": 58.2993107,
+        "busStopName": "Älem dynç alyş merkezi"
+    },
+    {
+        "busStopId": 264,
+        "busStopLat": 37.8953327,
+        "busStopLon": 58.3028072,
+        "busStopName": "Senagat toplumy"
+    },
+    {
+        "busStopId": 265,
+        "busStopLat": 37.8960058,
+        "busStopLon": 58.3019918,
+        "busStopName": "Älem dynç alyş merkezi"
+    },
+    {
+        "busStopId": 266,
+        "busStopLat": 37.9002944,
+        "busStopLon": 58.2868048,
+        "busStopName": "Bekrewe şaýoly"
+    },
+    {
+        "busStopId": 267,
+        "busStopLat": 37.8920636,
+        "busStopLon": 58.2856835,
+        "busStopName": "Arkadag myhmanhanasy"
+    },
+    {
+        "busStopId": 268,
+        "busStopLat": 37.9011651,
+        "busStopLon": 58.2877942,
+        "busStopName": "Bekrewe şaýoly"
+    },
+    {
+        "busStopId": 269,
+        "busStopLat": 37.891894,
+        "busStopLon": 58.2865895,
+        "busStopName": "Arkadag myhmanhanasy"
+    },
+    {
+        "busStopId": 270,
+        "busStopLat": 37.8899502,
+        "busStopLon": 58.2894529,
+        "busStopName": "Arkadag myhmanhanasy"
+    },
+    {
+        "busStopId": 271,
+        "busStopLat": 37.889319,
+        "busStopLon": 58.2820494,
+        "busStopName": "Çandybil şaýoly"
+    },
+    {
+        "busStopId": 272,
+        "busStopLat": 37.8955747,
+        "busStopLon": 58.2756979,
+        "busStopName": "Arçabil şaýoly"
+    },
+    {
+        "busStopId": 273,
+        "busStopLat": 37.9052571,
+        "busStopLon": 58.2874831,
+        "busStopName": "Bekrewe şaýoly"
+    },
+    {
+        "busStopId": 274,
+        "busStopLat": 37.8894714,
+        "busStopLon": 58.2627759,
+        "busStopName": "Çandybil şaýoly"
+    },
+    {
+        "busStopId": 275,
+        "busStopLat": 37.8960947,
+        "busStopLon": 58.2932586,
+        "busStopName": "Türkmendemirýollary"
+    },
+    {
+        "busStopId": 276,
+        "busStopLat": 37.9115402,
+        "busStopLon": 58.2882987,
+        "busStopName": "Bekrewe şaýoly"
+    },
+    {
+        "busStopId": 277,
+        "busStopLat": 37.9186999,
+        "busStopLon": 58.2892695,
+        "busStopName": "Bekrewe şaýoly"
+    },
+    {
+        "busStopId": 278,
+        "busStopLat": 37.9074732,
+        "busStopLon": 58.3002177,
+        "busStopName": "10 ýyl Abadançylyk şaýoly"
+    },
+    {
+        "busStopId": 279,
+        "busStopLat": 37.9105612,
+        "busStopLon": 58.289064,
+        "busStopName": "Bekrewe şaýoly"
+    },
+    {
+        "busStopId": 280,
+        "busStopLat": 37.9221997,
+        "busStopLon": 58.290621,
+        "busStopName": "Bekrewe şaýoly"
+    },
+    {
+        "busStopId": 281,
+        "busStopLat": 37.9305589,
+        "busStopLon": 58.2954669,
+        "busStopName": "21-nji çagalar bagy"
+    },
+    {
+        "busStopId": 282,
+        "busStopLat": 37.9345471,
+        "busStopLon": 58.289798,
+        "busStopName": "Bekrewe köçesi"
+    },
+    {
+        "busStopId": 283,
+        "busStopLat": 37.9231961,
+        "busStopLon": 58.2898595,
+        "busStopName": "Bekrewe şaýoly"
+    },
+    {
+        "busStopId": 284,
+        "busStopLat": 37.9016185,
+        "busStopLon": 58.3350847,
+        "busStopName": "Gadamly aýakgap önümleri"
+    },
+    {
+        "busStopId": 285,
+        "busStopLat": 37.9275781,
+        "busStopLon": 58.3331103,
+        "busStopName": "Ýyldyz myhmanhanasy"
+    },
+    {
+        "busStopId": 286,
+        "busStopLat": 37.9300603,
+        "busStopLon": 58.320084,
+        "busStopName": "Oguzhan (Aýtakowa) köçesi"
+    },
+    {
+        "busStopId": 287,
+        "busStopLat": 37.9352523,
+        "busStopLon": 58.3207635,
+        "busStopName": "Seýilgähler toplumy"
+    },
+    {
+        "busStopId": 288,
+        "busStopLat": 37.9328681,
+        "busStopLon": 58.3197711,
+        "busStopName": "Seýilgähler toplumy"
+    },
+    {
+        "busStopId": 289,
+        "busStopLat": 37.9309781,
+        "busStopLon": 58.319726,
+        "busStopName": "Oguzhan (Aýtakowa) köçesi"
+    },
+    {
+        "busStopId": 290,
+        "busStopLat": 37.9080256,
+        "busStopLon": 58.3208492,
+        "busStopName": "10 ýyl Abadançylyk şaýoly"
+    },
+    {
+        "busStopId": 291,
+        "busStopLat": 37.9299487,
+        "busStopLon": 58.3065276,
+        "busStopName": "Bekrewe köçesi"
+    },
+    {
+        "busStopId": 292,
+        "busStopLat": 37.9537136,
+        "busStopLon": 58.331305,
+        "busStopName": "Aman Kekilow adyndaky mugallymçylyk merkezi"
+    },
+    {
+        "busStopId": 293,
+        "busStopLat": 37.9443985,
+        "busStopLon": 58.3301525,
+        "busStopName": "Serhetçiler hassahanasy"
+    },
+    {
+        "busStopId": 294,
+        "busStopLat": 37.9522212,
+        "busStopLon": 58.3373195,
+        "busStopName": "Tiz kömek merkezi"
+    },
+    {
+        "busStopId": 295,
+        "busStopLat": 37.956164,
+        "busStopLon": 58.3264148,
+        "busStopName": "Mahmyt Işan metjidi"
+    },
+    {
+        "busStopId": 296,
+        "busStopLat": 37.951068,
+        "busStopLon": 58.3386447,
+        "busStopName": "Tiz kömek merkezi"
+    },
+    {
+        "busStopId": 297,
+        "busStopLat": 37.9524883,
+        "busStopLon": 58.3366291,
+        "busStopName": "\"Aşgabadyň ýalkymy\" söwda merkezi"
+    },
+    {
+        "busStopId": 298,
+        "busStopLat": 37.9562867,
+        "busStopLon": 58.3404833,
+        "busStopName": "Aşgabatenergo"
+    },
+    {
+        "busStopId": 299,
+        "busStopLat": 37.95662,
+        "busStopLon": 58.3258224,
+        "busStopName": "Mahmyt Işan metjidi"
+    },
+    {
+        "busStopId": 300,
+        "busStopLat": 37.9308859,
+        "busStopLon": 58.3351184,
+        "busStopName": "Ýyldyz myhmanhanasy"
+    },
+    {
+        "busStopId": 301,
+        "busStopLat": 37.9572078,
+        "busStopLon": 58.3394625,
+        "busStopName": "Esgerler hassahanasy"
+    },
+    {
+        "busStopId": 302,
+        "busStopLat": 37.9444735,
+        "busStopLon": 58.3305253,
+        "busStopName": "Serhetçiler hassahanasy"
+    },
+    {
+        "busStopId": 303,
+        "busStopLat": 37.9591226,
+        "busStopLon": 58.3399805,
+        "busStopName": "Alabaý binasy, Bekrewe köçesi"
+    },
+    {
+        "busStopId": 304,
+        "busStopLat": 37.9619083,
+        "busStopLon": 58.3341067,
+        "busStopName": "Magtymguly (Swobody) şaýoly"
+    },
+    {
+        "busStopId": 305,
+        "busStopLat": 37.958004,
+        "busStopLon": 58.3480591,
+        "busStopName": "Magtymguly (Swobody) şaýoly, 197"
+    },
+    {
+        "busStopId": 306,
+        "busStopLat": 37.9582307,
+        "busStopLon": 58.3475944,
+        "busStopName": "Magtymguly (Swobody) şaýoly, 172A"
+    },
+    {
+        "busStopId": 307,
+        "busStopLat": 37.9631465,
+        "busStopLon": 58.3320412,
+        "busStopName": "Gül zemin  söwda merkezi"
+    },
+    {
+        "busStopId": 308,
+        "busStopLat": 37.9634449,
+        "busStopLon": 58.3420506,
+        "busStopName": "62-nji mekdep"
+    },
+    {
+        "busStopId": 309,
+        "busStopLat": 37.9629778,
+        "busStopLon": 58.3276039,
+        "busStopName": "Oguz han uniwersiteti"
+    },
+    {
+        "busStopId": 310,
+        "busStopLat": 37.9599327,
+        "busStopLon": 58.3254019,
+        "busStopName": "140-nji mekdep"
+    },
+    {
+        "busStopId": 311,
+        "busStopLat": 37.9472246,
+        "busStopLon": 58.3513362,
+        "busStopName": "Görogly köçesi, 39G"
+    },
+    {
+        "busStopId": 312,
+        "busStopLat": 37.9479538,
+        "busStopLon": 58.3500301,
+        "busStopName": "Botanika bagy"
+    },
+    {
+        "busStopId": 313,
+        "busStopLat": 37.9407304,
+        "busStopLon": 58.3488503,
+        "busStopName": "Mollanepes köçesi, Baky dursun"
+    },
+    {
+        "busStopId": 314,
+        "busStopLat": 37.9416023,
+        "busStopLon": 58.3489648,
+        "busStopName": "Seýdi köçesi, Döwleti döwran"
+    },
+    {
+        "busStopId": 315,
+        "busStopLat": 37.9575358,
+        "busStopLon": 58.3397826,
+        "busStopName": "Aşgabatenergo"
+    },
+    {
+        "busStopId": 316,
+        "busStopLat": 37.9633977,
+        "busStopLon": 58.3309071,
+        "busStopName": "Gül zemin  söwda merkezi"
+    },
+    {
+        "busStopId": 317,
+        "busStopLat": 37.9593284,
+        "busStopLon": 58.3395828,
+        "busStopName": "Alabaý binasy, Bekrewe köçesi"
+    },
+    {
+        "busStopId": 318,
+        "busStopLat": 37.9587311,
+        "busStopLon": 58.3186975,
+        "busStopName": "Hellew"
+    },
+    {
+        "busStopId": 319,
+        "busStopLat": 37.967143,
+        "busStopLon": 58.3322563,
+        "busStopName": "116-njy mekdep"
+    },
+    {
+        "busStopId": 320,
+        "busStopLat": 37.9633802,
+        "busStopLon": 58.34134,
+        "busStopName": "62-nji mekdep"
+    },
+    {
+        "busStopId": 321,
+        "busStopLat": 37.9596704,
+        "busStopLon": 58.3177981,
+        "busStopName": "Hellew"
+    },
+    {
+        "busStopId": 322,
+        "busStopLat": 37.9631043,
+        "busStopLon": 58.3283075,
+        "busStopName": "Oguz han uniwersiteti"
+    },
+    {
+        "busStopId": 324,
+        "busStopLat": 37.9807003,
+        "busStopLon": 58.3377687,
+        "busStopName": "Gurbansoltan eje köçesi"
+    },
+    {
+        "busStopId": 325,
+        "busStopLat": 37.980347,
+        "busStopLon": 58.337451,
+        "busStopName": "Gurbansoltan eje köçesi"
+    },
+    {
+        "busStopId": 326,
+        "busStopLat": 37.9535017,
+        "busStopLon": 58.3322533,
+        "busStopName": "Aman Kekilow adyndaky mugallymçylyk merkezi"
+    },
+    {
+        "busStopId": 327,
+        "busStopLat": 37.9701654,
+        "busStopLon": 58.3351544,
+        "busStopName": "Köşi, 46"
+    },
+    {
+        "busStopId": 328,
+        "busStopLat": 37.952474,
+        "busStopLon": 58.3552887,
+        "busStopName": "Diller merkezi"
+    },
+    {
+        "busStopId": 329,
+        "busStopLat": 37.9568655,
+        "busStopLon": 58.3599513,
+        "busStopName": "Puşkin teatry"
+    },
+    {
+        "busStopId": 330,
+        "busStopLat": 37.9596933,
+        "busStopLon": 58.3378196,
+        "busStopName": "Magtymguly (Swobody) şaýoly"
+    },
+    {
+        "busStopId": 331,
+        "busStopLat": 37.9577429,
+        "busStopLon": 58.355175,
+        "busStopName": "45-nji çagalar bagy"
+    },
+    {
+        "busStopId": 332,
+        "busStopLat": 37.9569182,
+        "busStopLon": 58.358061,
+        "busStopName": "Çagalar çeperçilik mekdebi"
+    },
+    {
+        "busStopId": 333,
+        "busStopLat": 37.9749507,
+        "busStopLon": 58.3465576,
+        "busStopName": "Watutin gonamçylygy"
+    },
+    {
+        "busStopId": 334,
+        "busStopLat": 37.9731581,
+        "busStopLon": 58.3379921,
+        "busStopName": "Köşi, 26"
+    },
+    {
+        "busStopId": 335,
+        "busStopLat": 37.972841,
+        "busStopLon": 58.3370212,
+        "busStopName": "Köşi, 35"
+    },
+    {
+        "busStopId": 336,
+        "busStopLat": 37.9580102,
+        "busStopLon": 58.3548539,
+        "busStopName": "7-nji dermanhana"
+    },
+    {
+        "busStopId": 337,
+        "busStopLat": 37.9563982,
+        "busStopLon": 58.3576735,
+        "busStopName": "2-nji mekdep"
+    },
+    {
+        "busStopId": 338,
+        "busStopLat": 37.9835982,
+        "busStopLon": 58.3323229,
+        "busStopName": "Gurtly"
+    },
+    {
+        "busStopId": 339,
+        "busStopLat": 37.9826354,
+        "busStopLon": 58.3333019,
+        "busStopName": "Gurtly"
+    },
+    {
+        "busStopId": 340,
+        "busStopLat": 37.9902768,
+        "busStopLon": 58.320028,
+        "busStopName": "Gurbansoltan eje köçesi"
+    },
+    {
+        "busStopId": 341,
+        "busStopLat": 37.9673254,
+        "busStopLon": 58.3317238,
+        "busStopName": "61-nji mekdep"
+    },
+    {
+        "busStopId": 342,
+        "busStopLat": 37.9752689,
+        "busStopLon": 58.3400313,
+        "busStopName": "Köşi, 12"
+    },
+    {
+        "busStopId": 343,
+        "busStopLat": 38.0172612,
+        "busStopLon": 58.2590648,
+        "busStopName": "Türkmenbaşy ruhy metjidi"
+    },
+    {
+        "busStopId": 344,
+        "busStopLat": 38.0140092,
+        "busStopLon": 58.2671146,
+        "busStopName": "Gurbansoltan eje köçesi"
+    },
+    {
+        "busStopId": 345,
+        "busStopLat": 38.0240886,
+        "busStopLon": 58.2443726,
+        "busStopName": "Türkmenbaşy ruhy metjidi"
+    },
+    {
+        "busStopId": 346,
+        "busStopLat": 37.9513185,
+        "busStopLon": 58.3413351,
+        "busStopName": "Şikesleri bejriş halkara merkezi"
+    },
+    {
+        "busStopId": 347,
+        "busStopLat": 37.9461381,
+        "busStopLon": 58.365877,
+        "busStopName": "Atamyrat Nyýazow şaýoly, Köpetdag stadion ugurdan"
+    },
+    {
+        "busStopId": 348,
+        "busStopLat": 37.9403124,
+        "busStopLon": 58.353153,
+        "busStopName": "Mollanepes köçesi, Buýsançly"
+    },
+    {
+        "busStopId": 349,
+        "busStopLat": 37.9450359,
+        "busStopLon": 58.355965,
+        "busStopName": "Görogly köçesi, Berk pub"
+    },
+    {
+        "busStopId": 350,
+        "busStopLat": 37.945535,
+        "busStopLon": 58.3620713,
+        "busStopName": "Döwletmämmet Azady (Engels) köçesi, 123"
+    },
+    {
+        "busStopId": 351,
+        "busStopLat": 37.9411737,
+        "busStopLon": 58.3532716,
+        "busStopName": "Seýdi köçesi, Melhem"
+    },
+    {
+        "busStopId": 352,
+        "busStopLat": 37.9657089,
+        "busStopLon": 58.3457509,
+        "busStopName": "Bekrewe köçesi"
+    },
+    {
+        "busStopId": 353,
+        "busStopLat": 37.9656932,
+        "busStopLon": 58.358567,
+        "busStopName": "Watutin gonamçylygy"
+    },
+    {
+        "busStopId": 354,
+        "busStopLat": 37.9590321,
+        "busStopLon": 58.3663695,
+        "busStopName": "Gurbansoltan eje köçesi"
+    },
+    {
+        "busStopId": 355,
+        "busStopLat": 37.9584605,
+        "busStopLon": 58.3415548,
+        "busStopName": "Magtymguly (Swobody) şaýoly"
+    },
+    {
+        "busStopId": 356,
+        "busStopLat": 37.9412839,
+        "busStopLon": 58.3647807,
+        "busStopName": "Kardiologiýa merkezi"
+    },
+    {
+        "busStopId": 357,
+        "busStopLat": 37.9490064,
+        "busStopLon": 58.3676025,
+        "busStopName": "Köpetdag stadiony"
+    },
+    {
+        "busStopId": 358,
+        "busStopLat": 37.944384,
+        "busStopLon": 58.3655334,
+        "busStopName": "65-nji mekdep"
+    },
+    {
+        "busStopId": 359,
+        "busStopLat": 37.9446206,
+        "busStopLon": 58.367873,
+        "busStopName": "Döwletmämmet Azady (Engelsa) köçesi, 107"
+    },
+    {
+        "busStopId": 360,
+        "busStopLat": 37.9523306,
+        "busStopLon": 58.3690092,
+        "busStopName": "Magtymguly (Swobody) şaýoly, 124A"
+    },
+    {
+        "busStopId": 361,
+        "busStopLat": 37.9497573,
+        "busStopLon": 58.367572,
+        "busStopName": "Köpetdag stadiony"
+    },
+    {
+        "busStopId": 362,
+        "busStopLat": 37.9383912,
+        "busStopLon": 58.3642376,
+        "busStopName": "Atamyrat Nyýazow şaýoly"
+    },
+    {
+        "busStopId": 363,
+        "busStopLat": 37.9521364,
+        "busStopLon": 58.3554362,
+        "busStopName": "Diller merkezi"
+    },
+    {
+        "busStopId": 364,
+        "busStopLat": 37.9463588,
+        "busStopLon": 58.3564661,
+        "busStopName": "Italiýanyň ilçihanasy"
+    },
+    {
+        "busStopId": 365,
+        "busStopLat": 37.9500008,
+        "busStopLon": 58.3733717,
+        "busStopName": "Aşgabat kinoteatry"
+    },
+    {
+        "busStopId": 366,
+        "busStopLat": 37.9465255,
+        "busStopLon": 58.3711967,
+        "busStopName": "Teke bazar"
+    },
+    {
+        "busStopId": 367,
+        "busStopLat": 37.9383607,
+        "busStopLon": 58.3649481,
+        "busStopName": "Atamyrat Nyýazow şaýoly, 21"
+    },
+    {
+        "busStopId": 368,
+        "busStopLat": 37.9392784,
+        "busStopLon": 58.3755633,
+        "busStopName": "Altyn ýyldyz"
+    },
+    {
+        "busStopId": 369,
+        "busStopLat": 37.9519077,
+        "busStopLon": 58.3795524,
+        "busStopName": "Gurbansoltan eje köçesi, 53"
+    },
+    {
+        "busStopId": 370,
+        "busStopLat": 37.9433782,
+        "busStopLon": 58.3596732,
+        "busStopName": "Özbegistan ilçihanasy"
+    },
+    {
+        "busStopId": 371,
+        "busStopLat": 37.9419216,
+        "busStopLon": 58.3764033,
+        "busStopName": "Ylham seýilgähi"
+    },
+    {
+        "busStopId": 372,
+        "busStopLat": 37.9510353,
+        "busStopLon": 58.370971,
+        "busStopName": "Köpetdag stadiony"
+    },
+    {
+        "busStopId": 373,
+        "busStopLat": 37.9467448,
+        "busStopLon": 58.3665488,
+        "busStopName": "Atamyrat Nyýazow şaýoly, Köpetdag stadion ugruna"
+    },
+    {
+        "busStopId": 374,
+        "busStopLat": 37.9419749,
+        "busStopLon": 58.3694555,
+        "busStopName": "19-njy mekdep"
+    },
+    {
+        "busStopId": 375,
+        "busStopLat": 37.9462442,
+        "busStopLon": 58.379959,
+        "busStopName": "Akja"
+    },
+    {
+        "busStopId": 376,
+        "busStopLat": 37.9415074,
+        "busStopLon": 58.3723431,
+        "busStopName": "8-nji hünärment mekdebi"
+    },
+    {
+        "busStopId": 377,
+        "busStopLat": 37.9428678,
+        "busStopLon": 58.3791465,
+        "busStopName": "Döwletmämmet Azady (Engelsa) köçesi, 71"
+    },
+    {
+        "busStopId": 378,
+        "busStopLat": 37.9597794,
+        "busStopLon": 58.3780887,
+        "busStopName": "Atamyrat Nyýazow şaýoly, 304"
+    },
+    {
+        "busStopId": 379,
+        "busStopLat": 37.9564617,
+        "busStopLon": 58.3702959,
+        "busStopName": "82-nji mekdep"
+    },
+    {
+        "busStopId": 380,
+        "busStopLat": 37.957413,
+        "busStopLon": 58.3767486,
+        "busStopName": "Atamyrat Nyýazow şaýoly"
+    },
+    {
+        "busStopId": 381,
+        "busStopLat": 37.9658316,
+        "busStopLon": 58.3779244,
+        "busStopName": "Içerki aeroporty"
+    },
+    {
+        "busStopId": 382,
+        "busStopLat": 37.9401591,
+        "busStopLon": 58.379117,
+        "busStopName": "Watan kinoteatry"
+    },
+    {
+        "busStopId": 383,
+        "busStopLat": 37.9460446,
+        "busStopLon": 58.3808326,
+        "busStopName": "Janin salony"
+    },
+    {
+        "busStopId": 384,
+        "busStopLat": 37.9463205,
+        "busStopLon": 58.3775856,
+        "busStopName": "Ylham seýilgähi"
+    },
+    {
+        "busStopId": 385,
+        "busStopLat": 37.9410298,
+        "busStopLon": 58.3650874,
+        "busStopName": "Stamotologiýa merkezi"
+    },
+    {
+        "busStopId": 386,
+        "busStopLat": 37.9407141,
+        "busStopLon": 58.3579857,
+        "busStopName": "Seýdi köçesi, parkowka"
+    },
+    {
+        "busStopId": 387,
+        "busStopLat": 37.9358927,
+        "busStopLon": 58.3760167,
+        "busStopName": "Energetika ministrligi"
+    },
+    {
+        "busStopId": 388,
+        "busStopLat": 37.9485953,
+        "busStopLon": 58.3755851,
+        "busStopName": "Magtymguly (Swobody) şaýoly, 109"
+    },
+    {
+        "busStopId": 392,
+        "busStopLat": 37.9417501,
+        "busStopLon": 58.3890073,
+        "busStopName": "Mollanepes teatry"
+    },
+    {
+        "busStopId": 393,
+        "busStopLat": 37.9592704,
+        "busStopLon": 58.3667596,
+        "busStopName": "Gurbansoltan eje köçesi"
+    },
+    {
+        "busStopId": 394,
+        "busStopLat": 37.9571603,
+        "busStopLon": 58.3699536,
+        "busStopName": "82-nji mekdep"
+    },
+    {
+        "busStopId": 395,
+        "busStopLat": 37.9363048,
+        "busStopLon": 58.3887785,
+        "busStopName": "Görogly köçesi, 17"
+    },
+    {
+        "busStopId": 396,
+        "busStopLat": 37.949874199999996,
+        "busStopLon": 58.3823891,
+        "busStopName": "Gurbansoltan eje köçesi, 8"
+    },
+    {
+        "busStopId": 397,
+        "busStopLat": 37.9387019,
+        "busStopLon": 58.3828527,
+        "busStopName": "Drama teatry"
+    },
+    {
+        "busStopId": 398,
+        "busStopLat": 37.948425,
+        "busStopLon": 58.3851137,
+        "busStopName": "Gurbansoltan eje köçesi"
+    },
+    {
+        "busStopId": 399,
+        "busStopLat": 37.9424938,
+        "busStopLon": 58.3870857,
+        "busStopName": "Baş drama teatry"
+    },
+    {
+        "busStopId": 400,
+        "busStopLat": 37.9350573,
+        "busStopLon": 58.3884632,
+        "busStopName": "Türkmenbakaleýa"
+    },
+    {
+        "busStopId": 401,
+        "busStopLat": 37.9333414,
+        "busStopLon": 58.3877565,
+        "busStopName": "Türkmen döwlet uniwersiteti"
+    },
+    {
+        "busStopId": 402,
+        "busStopLat": 37.943644,
+        "busStopLon": 58.394777,
+        "busStopName": "Aşgabat wokzaly"
+    },
+    {
+        "busStopId": 403,
+        "busStopLat": 37.9523364,
+        "busStopLon": 58.3913244,
+        "busStopName": " Hristian gonamçylygy"
+    },
+    {
+        "busStopId": 404,
+        "busStopLat": 37.9338783,
+        "busStopLon": 58.3954909,
+        "busStopName": "Nurmuhammet Andalyp köçesi, 35"
+    },
+    {
+        "busStopId": 405,
+        "busStopLat": 37.9314027,
+        "busStopLon": 58.398041,
+        "busStopName": "Ärtogrul Gazy metjidi"
+    },
+    {
+        "busStopId": 406,
+        "busStopLat": 37.9483541,
+        "busStopLon": 58.3764923,
+        "busStopName": "Magtymguly (Swobody) şaýoly, 104"
+    },
+    {
+        "busStopId": 407,
+        "busStopLat": 37.9309105,
+        "busStopLon": 58.3935011,
+        "busStopName": "WDNH"
+    },
+    {
+        "busStopId": 408,
+        "busStopLat": 37.9432113,
+        "busStopLon": 58.4029578,
+        "busStopName": "Nurmuhammet Andalyp köçesi, 6"
+    },
+    {
+        "busStopId": 409,
+        "busStopLat": 37.9505867,
+        "busStopLon": 58.3932814,
+        "busStopName": "Bagt ýoly restoran"
+    },
+    {
+        "busStopId": 410,
+        "busStopLat": 37.9479094,
+        "busStopLon": 58.3976706,
+        "busStopName": "3-nju seýilgähi"
+    },
+    {
+        "busStopId": 411,
+        "busStopLat": 37.9348939,
+        "busStopLon": 58.3916181,
+        "busStopName": "4-nji saglyk öýi"
+    },
+    {
+        "busStopId": 412,
+        "busStopLat": 37.9390282,
+        "busStopLon": 58.393469,
+        "busStopName": "Russiýanyň ilçihanasy"
+    },
+    {
+        "busStopId": 413,
+        "busStopLat": 37.9363748,
+        "busStopLon": 58.3990654,
+        "busStopName": "Magtymguly (Swobody) şaýoly, 54"
+    },
+    {
+        "busStopId": 414,
+        "busStopLat": 37.9400904,
+        "busStopLon": 58.3799112,
+        "busStopName": "Watan kinoteatry"
+    },
+    {
+        "busStopId": 415,
+        "busStopLat": 37.9523136,
+        "busStopLon": 58.3913229,
+        "busStopName": "Bagt ýoly restoran"
+    },
+    {
+        "busStopId": 416,
+        "busStopLat": 37.9392554,
+        "busStopLon": 58.3923104,
+        "busStopName": "Aşgabat seýilgähi (Perwy park)"
+    },
+    {
+        "busStopId": 417,
+        "busStopLat": 37.9400856,
+        "busStopLon": 58.3921682,
+        "busStopName": "Ulag we aragatnaşyk instituty"
+    },
+    {
+        "busStopId": 418,
+        "busStopLat": 37.942756,
+        "busStopLon": 58.4034101,
+        "busStopName": "Nurmuhammet Andalyp köçesi, 6"
+    },
+    {
+        "busStopId": 419,
+        "busStopLat": 37.9376323,
+        "busStopLon": 58.4064399,
+        "busStopName": "Gurbansoltan eje köçesi"
+    },
+    {
+        "busStopId": 420,
+        "busStopLat": 37.9432324,
+        "busStopLon": 58.3943027,
+        "busStopName": "Aşgabat wokzaly"
+    },
+    {
+        "busStopId": 421,
+        "busStopLat": 37.9341137,
+        "busStopLon": 58.3935037,
+        "busStopName": "TDU himiýa fakulteti"
+    },
+    {
+        "busStopId": 422,
+        "busStopLat": 37.9183971,
+        "busStopLon": 58.4145894,
+        "busStopName": "Baş market"
+    },
+    {
+        "busStopId": 423,
+        "busStopLat": 37.9004924,
+        "busStopLon": 58.3972831,
+        "busStopName": "Parahat 4"
+    },
+    {
+        "busStopId": 424,
+        "busStopLat": 37.9182206,
+        "busStopLon": 58.429565,
+        "busStopName": "Ak ýol bazary"
+    },
+    {
+        "busStopId": 425,
+        "busStopLat": 37.9370178,
+        "busStopLon": 58.4297155,
+        "busStopName": "Taksomotor awtoulag kärhanasy"
+    },
+    {
+        "busStopId": 426,
+        "busStopLat": 37.9367305,
+        "busStopLon": 58.4307335,
+        "busStopName": "Taksomotor awtoulag kärhanasy"
+    },
+    {
+        "busStopId": 427,
+        "busStopLat": 37.9185529,
+        "busStopLon": 58.4312862,
+        "busStopName": "Hezreti Osman metjidi"
+    },
+    {
+        "busStopId": 428,
+        "busStopLat": 37.9214143,
+        "busStopLon": 58.4235334,
+        "busStopName": "Bank mekdebi"
+    },
+    {
+        "busStopId": 429,
+        "busStopLat": 37.932304,
+        "busStopLon": 58.4157343,
+        "busStopName": "Gurbansoltan eje köçesi (Steklozawod)"
+    },
+    {
+        "busStopId": 430,
+        "busStopLat": 37.9385537,
+        "busStopLon": 58.4269368,
+        "busStopName": "Taksomotor awtoulag kärhanasy"
+    },
+    {
+        "busStopId": 431,
+        "busStopLat": 37.9371781,
+        "busStopLon": 58.4331205,
+        "busStopName": "Baba Annanow köçesi"
+    },
+    {
+        "busStopId": 432,
+        "busStopLat": 37.9381329,
+        "busStopLon": 58.4330242,
+        "busStopName": "Baba Annanow köçesi"
+    },
+    {
+        "busStopId": 433,
+        "busStopLat": 37.9150635,
+        "busStopLon": 58.4376617,
+        "busStopName": "Gündogar köçesi, 22"
+    },
+    {
+        "busStopId": 434,
+        "busStopLat": 37.9181784,
+        "busStopLon": 58.4400305,
+        "busStopName": "Awtokombinat"
+    },
+    {
+        "busStopId": 435,
+        "busStopLat": 37.9233411,
+        "busStopLon": 58.4396502,
+        "busStopName": "Awtokombinat"
+    },
+    {
+        "busStopId": 436,
+        "busStopLat": 37.9384197,
+        "busStopLon": 58.4277333,
+        "busStopName": "Awtoulag kärhanasy"
+    },
+    {
+        "busStopId": 437,
+        "busStopLat": 37.9181766,
+        "busStopLon": 58.4330214,
+        "busStopName": "86-njy mekdep"
+    },
+    {
+        "busStopId": 438,
+        "busStopLat": 37.9220251,
+        "busStopLon": 58.4423317,
+        "busStopName": "Awtokombinat"
+    },
+    {
+        "busStopId": 439,
+        "busStopLat": 37.9413002,
+        "busStopLon": 58.4226796,
+        "busStopName": "Hoja Ahmet Ýasawy köçesi"
+    },
+    {
+        "busStopId": 440,
+        "busStopLat": 37.9428233,
+        "busStopLon": 58.4344501,
+        "busStopName": "Baba Annanow köçesi"
+    },
+    {
+        "busStopId": 441,
+        "busStopLat": 37.9433761,
+        "busStopLon": 58.435003,
+        "busStopName": "Baba Annanow köçesi"
+    },
+    {
+        "busStopId": 442,
+        "busStopLat": 37.9413012,
+        "busStopLon": 58.4226918,
+        "busStopName": "Hoja Ahmet Ýasawy köçesi"
+    },
+    {
+        "busStopId": 443,
+        "busStopLat": 37.9506284,
+        "busStopLon": 58.4057606,
+        "busStopName": "Hoja Ahmet Ýasawy köçesi"
+    },
+    {
+        "busStopId": 444,
+        "busStopLat": 37.9495402,
+        "busStopLon": 58.4095611,
+        "busStopName": "9-njy mekdep"
+    },
+    {
+        "busStopId": 445,
+        "busStopLat": 37.9377156,
+        "busStopLon": 58.405423,
+        "busStopName": "Gurbansoltan eje köçesi"
+    },
+    {
+        "busStopId": 446,
+        "busStopLat": 37.9537113,
+        "busStopLon": 58.4296954,
+        "busStopName": "Kuliýew köçesi, Ajaýyp ussat"
+    },
+    {
+        "busStopId": 447,
+        "busStopLat": 37.947724,
+        "busStopLon": 58.4103583,
+        "busStopName": "Körler mekdep internaty"
+    },
+    {
+        "busStopId": 448,
+        "busStopLat": 37.9448478,
+        "busStopLon": 58.4053007,
+        "busStopName": "Nurmuhammet Andalyp köçesi, 10"
+    },
+    {
+        "busStopId": 449,
+        "busStopLat": 37.9559943,
+        "busStopLon": 58.4151302,
+        "busStopName": "Nurmuhammet Andalyp köçesi"
+    },
+    {
+        "busStopId": 450,
+        "busStopLat": 37.9566699,
+        "busStopLon": 58.4151616,
+        "busStopName": "Nurmuhammet Andalyp köçesi"
+    },
+    {
+        "busStopId": 451,
+        "busStopLat": 37.9505987,
+        "busStopLon": 58.4056304,
+        "busStopName": "Hoja Ahmet Ýasawy köçesi"
+    },
+    {
+        "busStopId": 452,
+        "busStopLat": 37.9347597,
+        "busStopLon": 58.4021334,
+        "busStopName": "Magtymguly (Swobody) şaýoly, 48 (Piw zawod)"
+    },
+    {
+        "busStopId": 453,
+        "busStopLat": 37.9454791,
+        "busStopLon": 58.4021125,
+        "busStopName": "Aga Berdiýew köçesi, 35"
+    },
+    {
+        "busStopId": 454,
+        "busStopLat": 37.9309688,
+        "busStopLon": 58.408612,
+        "busStopName": "Býram han meýdany"
+    },
+    {
+        "busStopId": 455,
+        "busStopLat": 37.9477092,
+        "busStopLon": 58.4079113,
+        "busStopName": "Azady metjidi"
+    },
+    {
+        "busStopId": 456,
+        "busStopLat": 37.9384377,
+        "busStopLon": 58.4277463,
+        "busStopName": "Taksomotor awtoulag kärhanasy"
+    },
+    {
+        "busStopId": 457,
+        "busStopLat": 37.9531249,
+        "busStopLon": 58.4125359,
+        "busStopName": "Nurmuhammet Andalyp köçesi"
+    },
+    {
+        "busStopId": 458,
+        "busStopLat": 37.941478,
+        "busStopLon": 58.4217765,
+        "busStopName": "Hoja Ahmet Ýasawy köçesi"
+    },
+    {
+        "busStopId": 459,
+        "busStopLat": 37.9500733,
+        "busStopLon": 58.4090514,
+        "busStopName": "9-njy mekdep"
+    },
+    {
+        "busStopId": 460,
+        "busStopLat": 37.9678354,
+        "busStopLon": 58.400358,
+        "busStopName": "Içeri işler ministrligi"
+    },
+    {
+        "busStopId": 461,
+        "busStopLat": 37.9670786,
+        "busStopLon": 58.4082181,
+        "busStopName": "Kuliýew köçesi, Serpaý"
+    },
+    {
+        "busStopId": 462,
+        "busStopLat": 37.9480444,
+        "busStopLon": 58.4072248,
+        "busStopName": "Azady metjidi"
+    },
+    {
+        "busStopId": 463,
+        "busStopLat": 37.9442033,
+        "busStopLon": 58.4174801,
+        "busStopName": "Genji hazyna bazary"
+    },
+    {
+        "busStopId": 464,
+        "busStopLat": 37.963016,
+        "busStopLon": 58.3995854,
+        "busStopName": "Laçyn myhmanhanasy"
+    },
+    {
+        "busStopId": 465,
+        "busStopLat": 37.9558484,
+        "busStopLon": 58.3936151,
+        "busStopName": "Gurbansoltan eje adyndaky mekdep"
+    },
+    {
+        "busStopId": 466,
+        "busStopLat": 37.9619986,
+        "busStopLon": 58.3987498,
+        "busStopName": "Laçyn myhmanhanasy"
+    },
+    {
+        "busStopId": 467,
+        "busStopLat": 37.9657608,
+        "busStopLon": 58.4003853,
+        "busStopName": "Içeri işler ministrligi"
+    },
+    {
+        "busStopId": 468,
+        "busStopLat": 37.9449799,
+        "busStopLon": 58.4154711,
+        "busStopName": "Genji hazyna bazary"
+    },
+    {
+        "busStopId": 469,
+        "busStopLat": 37.9607934,
+        "busStopLon": 58.3882992,
+        "busStopName": "21-nji çagalar bagy"
+    },
+    {
+        "busStopId": 470,
+        "busStopLat": 37.9596408,
+        "busStopLon": 58.3898334,
+        "busStopName": "Hoja Ahmet Ýasawy köçesi, 235"
+    },
+    {
+        "busStopId": 471,
+        "busStopLat": 37.9701456,
+        "busStopLon": 58.3971446,
+        "busStopName": "Aşgabat dokma toplumy"
+    },
+    {
+        "busStopId": 472,
+        "busStopLat": 37.9618206,
+        "busStopLon": 58.3798996,
+        "busStopName": "Içerki aeroporty ugrundan"
+    },
+    {
+        "busStopId": 473,
+        "busStopLat": 37.9613378,
+        "busStopLon": 58.3977267,
+        "busStopName": "Halkbank"
+    },
+    {
+        "busStopId": 474,
+        "busStopLat": 37.9674075,
+        "busStopLon": 58.3847151,
+        "busStopName": "Içerki aeroporty ugruna"
+    },
+    {
+        "busStopId": 475,
+        "busStopLat": 37.9708955,
+        "busStopLon": 58.3965754,
+        "busStopName": "Bitarap Türkmenistan şaýoly, Kamaz"
+    },
+    {
+        "busStopId": 476,
+        "busStopLat": 37.9699919,
+        "busStopLon": 58.3874506,
+        "busStopName": "Halkara aeroporty ugruna"
+    },
+    {
+        "busStopId": 477,
+        "busStopLat": 37.9667691,
+        "busStopLon": 58.3847872,
+        "busStopName": "Garagum myhmanhanasy"
+    },
+    {
+        "busStopId": 478,
+        "busStopLat": 37.9543836,
+        "busStopLon": 58.3994898,
+        "busStopName": "Hristian gonamçylygy"
+    },
+    {
+        "busStopId": 479,
+        "busStopLat": 37.9629733,
+        "busStopLon": 58.3829171,
+        "busStopName": "Garagum myhmanhanasy"
+    },
+    {
+        "busStopId": 480,
+        "busStopLat": 37.947162,
+        "busStopLon": 58.3883308,
+        "busStopName": "Gurbansoltan eje köçesi"
+    },
+    {
+        "busStopId": 481,
+        "busStopLat": 37.9700951,
+        "busStopLon": 58.4039961,
+        "busStopName": "Kuliýew köçesi, Rysgal"
+    },
+    {
+        "busStopId": 482,
+        "busStopLat": 37.9609468,
+        "busStopLon": 58.3797382,
+        "busStopName": "Atamyrat Nyýazow şaýoly, 50"
+    },
+    {
+        "busStopId": 483,
+        "busStopLat": 37.9818713,
+        "busStopLon": 58.3753339,
+        "busStopName": "Halkara aeroporty"
+    },
+    {
+        "busStopId": 484,
+        "busStopLat": 37.9814943,
+        "busStopLon": 58.375076,
+        "busStopName": "Halkara aeroporty"
+    },
+    {
+        "busStopId": 485,
+        "busStopLat": 37.9794192,
+        "busStopLon": 58.3915955,
+        "busStopName": "Kuliýew köçesi"
+    },
+    {
+        "busStopId": 486,
+        "busStopLat": 37.9474846,
+        "busStopLon": 58.4114231,
+        "busStopName": "Körler mekdep internaty"
+    },
+    {
+        "busStopId": 487,
+        "busStopLat": 37.9725282,
+        "busStopLon": 58.4006194,
+        "busStopName": "Kuliýew köçesi, Aýly diýar"
+    },
+    {
+        "busStopId": 488,
+        "busStopLat": 37.949997,
+        "busStopLon": 58.3940368,
+        "busStopName": "Bagt ýoly restoran"
+    },
+    {
+        "busStopId": 489,
+        "busStopLat": 37.991166,
+        "busStopLon": 58.4095726,
+        "busStopName": "Atamyrat Nyýazow (Gagarina) şaýoly"
+    },
+    {
+        "busStopId": 490,
+        "busStopLat": 37.985487,
+        "busStopLon": 58.4056724,
+        "busStopName": "Atamyrat Nyýazow (Gagarina) şaýoly"
+    },
+    {
+        "busStopId": 491,
+        "busStopLat": 37.9968026,
+        "busStopLon": 58.4079584,
+        "busStopName": "Atamyrat Nyýazow (Gagarina) şaýoly"
+    },
+    {
+        "busStopId": 492,
+        "busStopLat": 38.0386206,
+        "busStopLon": 58.4059368,
+        "busStopName": "Gündogar (Tolkuçka) bazary"
+    },
+    {
+        "busStopId": 493,
+        "busStopLat": 38.0228826,
+        "busStopLon": 58.4054311,
+        "busStopName": "Atamyrat Nyýazow (Gagarina) şaýoly"
+    },
+    {
+        "busStopId": 494,
+        "busStopLat": 38.0237173,
+        "busStopLon": 58.4064274,
+        "busStopName": "Atamyrat Nyýazow (Gagarina) şaýoly"
+    },
+    {
+        "busStopId": 495,
+        "busStopLat": 37.8894584,
+        "busStopLon": 58.3520394,
+        "busStopName": "Altyn suw myhmanhanasy"
+    },
+    {
+        "busStopId": 496,
+        "busStopLat": 37.9014078,
+        "busStopLon": 58.3629634,
+        "busStopName": "Garaşsyzlyk şaýoly"
+    },
+    {
+        "busStopId": 497,
+        "busStopLat": 37.9012535,
+        "busStopLon": 58.3474817,
+        "busStopName": "Abadançylyk şaýoly, 147"
+    },
+    {
+        "busStopId": 498,
+        "busStopLat": 37.897402,
+        "busStopLon": 58.3667845,
+        "busStopName": "Medeniýet instituty"
+    },
+    {
+        "busStopId": 499,
+        "busStopLat": 37.8925711,
+        "busStopLon": 58.3548601,
+        "busStopName": "Gyrgyzstanyň we Gazagystanyň ilçihanalary"
+    },
+    {
+        "busStopId": 500,
+        "busStopLat": 37.89871,
+        "busStopLon": 58.3573485,
+        "busStopName": "Abadançylyk şaýoly, 128"
+    },
+    {
+        "busStopId": 501,
+        "busStopLat": 37.8959119,
+        "busStopLon": 58.3806874,
+        "busStopName": "Parahat 2/2, 18"
+    },
+    {
+        "busStopId": 502,
+        "busStopLat": 37.8787176,
+        "busStopLon": 58.3822847,
+        "busStopName": "Medeniýet merkezi"
+    },
+    {
+        "busStopId": 503,
+        "busStopLat": 37.9159933,
+        "busStopLon": 58.3681695,
+        "busStopName": "Bagtyýarlyk söwda merkezi"
+    },
+    {
+        "busStopId": 504,
+        "busStopLat": 37.9101487,
+        "busStopLon": 58.420159,
+        "busStopName": "Oguzhan köçesi, 38/2"
+    },
+    {
+        "busStopId": 505,
+        "busStopLat": 37.9508461,
+        "busStopLon": 58.3389172,
+        "busStopName": "Halkara şikes merkezi"
+    },
+    {
+        "busStopId": 506,
+        "busStopLat": 37.959683,
+        "busStopLon": 58.324455,
+        "busStopName": "Köşi, 129"
+    },
+    {
+        "busStopId": 507,
+        "busStopLat": 37.9698406,
+        "busStopLon": 58.33417,
+        "busStopName": "Köşi, 53"
+    },
+    {
+        "busStopId": 508,
+        "busStopLat": 37.9765651,
+        "busStopLon": 58.3405889,
+        "busStopName": "Köşi, 9"
+    },
+    {
+        "busStopId": 509,
+        "busStopLat": 37.9443179,
+        "busStopLon": 58.366006,
+        "busStopName": "65-nji mekdep"
+    },
+    {
+        "busStopId": 510,
+        "busStopLat": 37.9158652,
+        "busStopLon": 58.3818075,
+        "busStopName": "Ýimpaş söwda merkezi"
+    },
+    {
+        "busStopId": 511,
+        "busStopLat": 37.876498,
+        "busStopLon": 58.377032,
+        "busStopName": "Beýik Saparmyrat Türkmenbaşy şaýoly"
+    },
+    {
+        "busStopId": 512,
+        "busStopLat": 37.8515395,
+        "busStopLon": 58.3595342,
+        "busStopName": "Berzeňňi şypahanasy"
+    },
+    {
+        "busStopId": 513,
+        "busStopLat": 37.8500074,
+        "busStopLon": 58.3758312,
+        "busStopName": "Berzeňňi"
+    },
+    {
+        "busStopId": 514,
+        "busStopLat": 37.8369465,
+        "busStopLon": 58.3763668,
+        "busStopName": "Serhetçiler instituty"
+    },
+    {
+        "busStopId": 515,
+        "busStopLat": 37.8958748,
+        "busStopLon": 58.3720707,
+        "busStopName": "Berkarar söwda we dynç alyş merkezi"
+    },
+    {
+        "busStopId": 516,
+        "busStopLat": 37.8953532,
+        "busStopLon": 58.381873,
+        "busStopName": "Garaşsyzlyk seýilgähi"
+    },
+    {
+        "busStopId": 517,
+        "busStopLat": 37.8952266,
+        "busStopLon": 58.3861626,
+        "busStopName": "Garaşsyzlyk seýilgähi"
+    },
+    {
+        "busStopId": 518,
+        "busStopLat": 37.8936758,
+        "busStopLon": 58.3878513,
+        "busStopName": "Garaşsyzlyk seýilgähi"
+    },
+    {
+        "busStopId": 519,
+        "busStopLat": 37.8958294,
+        "busStopLon": 58.3861844,
+        "busStopName": "10 ýyl Abadançylyk şaýoly, 26"
+    },
+    {
+        "busStopId": 520,
+        "busStopLat": 37.890357,
+        "busStopLon": 58.3881619,
+        "busStopName": "Nurmuhammet Andalyp köçesi, 78"
+    },
+    {
+        "busStopId": 521,
+        "busStopLat": 37.8859564,
+        "busStopLon": 58.3878238,
+        "busStopName": "Nurmuhammet Andalyp köçesi, 84"
+    },
+    {
+        "busStopId": 522,
+        "busStopLat": 37.8834577,
+        "busStopLon": 58.3871622,
+        "busStopName": "Garaşsyzlyk seýilgähi"
+    },
+    {
+        "busStopId": 523,
+        "busStopLat": 37.8810311,
+        "busStopLon": 58.3874946,
+        "busStopName": "Nurmuhammet Andalyp köçesi, 94"
+    },
+    {
+        "busStopId": 524,
+        "busStopLat": 37.8734281,
+        "busStopLon": 58.3864581,
+        "busStopName": "Nurmuhammet Andalyp köçesi"
+    },
+    {
+        "busStopId": 525,
+        "busStopLat": 37.8718421,
+        "busStopLon": 58.3823503,
+        "busStopName": "Nurmuhammet Andalyp köçesi"
+    },
+    {
+        "busStopId": 526,
+        "busStopLat": 37.8843154,
+        "busStopLon": 58.39401,
+        "busStopName": "83-nji mekdep"
+    },
+    {
+        "busStopId": 527,
+        "busStopLat": 37.8882072,
+        "busStopLon": 58.3942305,
+        "busStopName": "Ankara köçesi, 109"
+    },
+    {
+        "busStopId": 528,
+        "busStopLat": 37.8921265,
+        "busStopLon": 58.3966099,
+        "busStopName": "79-njy mekdep"
+    },
+    {
+        "busStopId": 529,
+        "busStopLat": 37.892624,
+        "busStopLon": 58.3961941,
+        "busStopName": "79-njy mekdep"
+    },
+    {
+        "busStopId": 530,
+        "busStopLat": 37.8992468,
+        "busStopLon": 58.3975726,
+        "busStopName": "Ankara köçesi, Şöhle"
+    },
+    {
+        "busStopId": 531,
+        "busStopLat": 37.9051122,
+        "busStopLon": 58.397487,
+        "busStopName": "Parahat 3/2, 14"
+    },
+    {
+        "busStopId": 532,
+        "busStopLat": 37.9114851,
+        "busStopLon": 58.3981205,
+        "busStopName": "Howdan B, 41"
+    },
+    {
+        "busStopId": 533,
+        "busStopLat": 37.915822,
+        "busStopLon": 58.3976496,
+        "busStopName": "Ankara köçesi, 34/2"
+    },
+    {
+        "busStopId": 534,
+        "busStopLat": 37.9400719,
+        "busStopLon": 58.3933632,
+        "busStopName": "Ulag we aragatnaşyk instituty"
+    },
+    {
+        "busStopId": 535,
+        "busStopLat": 37.9361452,
+        "busStopLon": 58.3989052,
+        "busStopName": "Magtymguly (Swobody) şaýoly, 18"
+    },
+    {
+        "busStopId": 536,
+        "busStopLat": 37.9337634,
+        "busStopLon": 58.4033943,
+        "busStopName": "Magtymguly (Swobody) şaýoly, Piw zawod"
+    },
+    {
+        "busStopId": 537,
+        "busStopLat": 37.9325313,
+        "busStopLon": 58.4063243,
+        "busStopName": "Magtymguly (Swobody) şaýoly, 32"
+    },
+    {
+        "busStopId": 538,
+        "busStopLat": 37.9260373,
+        "busStopLon": 58.4177099,
+        "busStopName": "Magtymguly (Swobody) şaýoly, 6"
+    },
+    {
+        "busStopId": 539,
+        "busStopLat": 37.9186645,
+        "busStopLon": 58.4262669,
+        "busStopName": "Baba Annanow köçesi, 152"
+    },
+    {
+        "busStopId": 540,
+        "busStopLat": 37.9185004,
+        "busStopLon": 58.4375465,
+        "busStopName": "Atamyrat Nyýazow şaýoly"
+    },
+    {
+        "busStopId": 541,
+        "busStopLat": 37.9180978,
+        "busStopLon": 58.4375533,
+        "busStopName": "Atamyrat Nyýazow şaýoly, 140"
+    },
+    {
+        "busStopId": 542,
+        "busStopLat": 37.9174207,
+        "busStopLon": 58.4383092,
+        "busStopName": "Gündogar köçesi, 10"
+    },
+    {
+        "busStopId": 543,
+        "busStopLat": 37.9484766,
+        "busStopLon": 58.396953,
+        "busStopName": "3-nju seýilgähi"
+    },
+    {
+        "busStopId": 544,
+        "busStopLat": 37.9398408,
+        "busStopLon": 58.3579182,
+        "busStopName": "Mollanepes köçesi, Bagtyýar zaman"
+    },
+    {
+        "busStopId": 545,
+        "busStopLat": 37.953082,
+        "busStopLon": 58.3394954,
+        "busStopName": "Selhoz uniwersiteti"
+    },
+    {
+        "busStopId": 546,
+        "busStopLat": 37.9586591,
+        "busStopLon": 58.3386795,
+        "busStopName": "Magtymguly (Swobody) şaýoly"
+    },
+    {
+        "busStopId": 547,
+        "busStopLat": 37.958153,
+        "busStopLon": 58.3414472,
+        "busStopName": "Magtymguly (Swobody) şaýoly"
+    },
+    {
+        "busStopId": 548,
+        "busStopLat": 37.9618375,
+        "busStopLon": 58.3335289,
+        "busStopName": "Magtymguly (Swobody) şaýoly"
+    },
+    {
+        "busStopId": 549,
+        "busStopLat": 37.909119,
+        "busStopLon": 58.3766348,
+        "busStopName": "Olimpiýa şäherçesi"
+    },
+    {
+        "busStopId": 550,
+        "busStopLat": 37.9047314,
+        "busStopLon": 58.3733992,
+        "busStopName": "Türgenler myhmanhanasy, 1"
+    },
+    {
+        "busStopId": 551,
+        "busStopLat": 37.9137999,
+        "busStopLon": 58.3698214,
+        "busStopName": "Garaşsyzlyk şaýoly, 69/2"
+    },
+    {
+        "busStopId": 552,
+        "busStopLat": 37.9111782,
+        "busStopLon": 58.3675965,
+        "busStopName": "Puşkin adyndaky mekdebi"
+    }
+]
