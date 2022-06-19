@@ -14,9 +14,13 @@ interface BusStop_BusDao {
     @Delete
     fun delete(busStop_Bus: BusStop_Bus)
 
-    @Query("SELECT bus.busId, busNumber FROM bus INNER JOIN bus_stop, busStop_Bus ON busStop_Bus.busId = bus.busId " +
+    @Query("SELECT bus.busId, bus.busNumber, bus_stop.busStopId FROM bus INNER JOIN bus_stop, busStop_Bus ON busStop_Bus.busId = bus.busId " +
             "AND busStop_Bus.busStopId = bus_stop.busStopId WHERE bus_stop.busStopId = :busStopId")
     fun getAllBusesForThisBusStop(busStopId: Long): List<Bus>
+
+    @Query("SELECT bus_stop.* FROM bus_stop INNER JOIN bus, busStop_Bus ON busStop_Bus.busId = bus.busId " +
+            "AND busStop_Bus.busStopId = bus_stop.busStopId WHERE bus.busNumber = :busNumber")
+    fun getAllBusStopsForThisBus(busNumber: Int): List<BusStop>
 
     @Query("SELECT * FROM busStop_bus WHERE busStopId = :busStopId")
     fun getBusStop(busStopId: Long): LiveData<BusStop_Bus>

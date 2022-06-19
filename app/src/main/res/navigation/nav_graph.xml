@@ -8,46 +8,51 @@
     <fragment
         android:id="@+id/mapFragment"
         android:name="com.example.osmtest.MapFragment"
-        android:label="fragment_map"
-        tools:layout="@layout/fragment_map" >
+        android:label="@string/main"
+        tools:layout="@layout/fragment_map">
         <action
-            android:id="@+id/action_mapFragment_to_suggestionsFragment"
-            app:destination="@id/navigationFragment" />
+            android:id="@+id/action_mapFragment_to_busRoutesFragment"
+            app:destination="@id/busRoutesFragment" />
         <argument
-            android:name="fromQuery"
+            android:name="busNumber"
+            android:defaultValue="-1"
+            app:argType="integer" />
+        <action
+            android:id="@+id/action_mapFragment_to_busStopsFragment"
+            app:destination="@id/busStopsFragment" />
+        <argument
+            android:name="busStopId"
+            android:defaultValue="-1L"
+            app:argType="long" />
+        <argument
+            android:name="busStopLat"
+            android:defaultValue="-1.0"
+            app:argType="float" />
+        <argument
+            android:name="busStopLon"
+            android:defaultValue="-1.0"
+            app:argType="float" />
+        <argument
+            android:name="busStopName"
+            android:defaultValue=" "
             app:argType="string" />
-        <argument
-            android:name="fromLat"
-            app:argType="float" />
-        <argument
-            android:name="fromLon"
-            app:argType="float" />
-        <argument
-            android:name="toQuery"
-            app:argType="string" />
-        <argument
-            android:name="toLat"
-            app:argType="float" />
-        <argument
-            android:name="toLon"
-            app:argType="float" />
     </fragment>
     <fragment
-        android:id="@+id/navigationFragment"
-        android:name="com.example.osmtest.NavigationFragment"
-        android:label="Navigation"
-        tools:layout="@layout/fragment_navigation">
+        android:id="@+id/busRoutesFragment"
+        android:name="com.example.osmtest.BusRoutesFragment"
+        android:label="@string/bus_routes"
+        tools:layout="@layout/fragment_bus_routes">
         <action
-            android:id="@+id/action_suggestionsFragment_to_mapFragment"
+            android:id="@+id/action_busRoutesFragment_to_mapFragment"
             app:destination="@id/mapFragment" />
-        <argument
-            android:name="from_destination_name"
-            app:argType="string" />
-        <argument
-            android:name="from_destination_lat"
-            app:argType="float" />
-        <argument
-            android:name="from_destination_lon"
-            app:argType="float" />
+    </fragment>
+    <fragment
+        android:id="@+id/busStopsFragment"
+        android:name="com.example.osmtest.BusStopsFragment"
+        android:label="@string/bus_stops"
+        tools:layout="@layout/fragment_bus_stops">
+        <action
+            android:id="@+id/action_busStopsFragment_to_mapFragment"
+            app:destination="@id/mapFragment" />
     </fragment>
 </navigation>

@@ -14,9 +14,12 @@ interface BusDao {
     @Delete
     fun delete(bus: Bus)
 
-    @Query("SELECT * FROM bus WHERE busId = :busId")
-    fun get(busId: Long): LiveData<Bus>
+    /*@Query("SELECT * FROM bus WHERE busId = :busId")
+    fun get(busId: Long): LiveData<Bus>*/
 
     @Query("SELECT * FROM bus ORDER BY busId")
     fun getAll(): List<Bus>
+
+    @Query("SELECT * FROM bus WHERE busNumber like :query")
+    fun searchBus(query: String): List<Bus>
 }

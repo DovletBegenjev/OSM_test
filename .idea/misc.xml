@@ -10,11 +10,18 @@
         <entry key="..\:/Users/dovle/AndroidStudioProjects/OSMtest/app/src/main/res/layout/fragment_map.xml" value="0.22" />
         <entry key="..\:/Users/dovle/AndroidStudioProjects/OSMtest/app/src/main/res/layout/fragment_suggestions.xml" value="0.25" />
         <entry key="..\:/Users/dovle/AndroidStudioProjects/OSMtest/app/src/main/res/layout/query_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/dovle/AndroidStudioProjects/OSMtest/app/src/main/res/menu/bottom_bar_menu.xml" value="0.32592592592592595" />
         <entry key="app/src/main/res/drawable/baseline_close_18.xml" value="0.305" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/bus_route_item.xml" value="0.30833333333333335" />
+        <entry key="app/src/main/res/layout/bus_stop_item.xml" value="0.3074074074074074" />
+        <entry key="app/src/main/res/layout/fragment_bus_routes.xml" value="0.30833333333333335" />
+        <entry key="app/src/main/res/layout/fragment_bus_stops.xml" value="0.30833333333333335" />
         <entry key="app/src/main/res/layout/fragment_map.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_navigation.xml" value="0.16869300911854104" />
         <entry key="app/src/main/res/layout/fragment_suggestions.xml" value="0.22" />
         <entry key="app/src/main/res/layout/query_item.xml" value="0.33" />
+        <entry key="app/src/main/res/menu/bottom_bar_menu.xml" value="0.30833333333333335" />
       </map>
     </option>
   </component>

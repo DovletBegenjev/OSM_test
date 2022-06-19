@@ -45,10 +45,10 @@ class MapViewModel(
         }
     }*/
 
-    val result = MutableLiveData<List<BusStop>>()
+    val allBusStops = MutableLiveData<List<BusStop>>()
     fun getAllBusStops() {
         viewModelScope.launch {
-            result.value = busStopDao.getAll2()
+            allBusStops.value = busStopDao.getAll2()
         }
     }
 
@@ -59,17 +59,46 @@ class MapViewModel(
         }
     }
 
+    val nearBusStops = MutableLiveData<List<BusStop>>()
+    fun getNearBusStops(busStopLat: Double) {
+        viewModelScope.launch {
+            nearBusStops.value = busStopDao.findNearBusStops1(busStopLat)
+        }
+    }
+
+    val searchBusStopResult = MutableLiveData<List<BusStop>>()
+    fun searchBusStop(query: String) {
+        viewModelScope.launch {
+            searchBusStopResult.value = busStopDao.searchBusStop(query)
+        }
+    }
+
+    val searchBusResult = MutableLiveData<List<Bus>>()
+    fun searchBus(query: String) {
+        viewModelScope.launch {
+            searchBusResult.value = busDao.searchBus(query)
+        }
+    }
+
+    /*val busStopAlongRoute = MutableLiveData<BusStop>()
+    fun get(busStopLat: Double, busStopLon: Double) {
+        viewModelScope.launch {
+            busStopAlongRoute.value = busStopDao.get(busStopLat, busStopLon)
+        }
+    }*/
+
     var busId = MutableLiveData<Int>()
 
-    /*var busStopName = ""
-    private var busNumbers = busStop_BusDao.getAllBusesForThisBusStop(busStopName)
-    fun getBusNumbers(busStopName: String) {
+//    var busStopId = 0L
+//    private var busNumbers = busStop_BusDao.getAllBusesForThisBusStop(busStopId)
+    val busNumbers = MutableLiveData<List<Bus>>()
+    fun getBusNumbers(busStopId: Long) {
         viewModelScope.launch {
-            busNumbers = busStop_BusDao.getAllBusesForThisBusStop(busStopName)
+            busNumbers.value = busStop_BusDao.getAllBusesForThisBusStop(busStopId)
             //Log.i("Permission", "${busNumbers.value}")
         }
     }
-    val busNumbersString = Transformations.map(busNumbers) {
+    /*val busNumbersString = Transformations.map(busNumbers) {
         busNumbers -> formatBusNumbers(busNumbers)
     }
     private fun formatBusNumbers(busNumbers: List<Bus>): String {

@@ -25,4 +25,10 @@ interface BusStopDao {
 
     @Query("UPDATE bus_stop SET busStopName = :busStopName WHERE busStopLat = :busStopLat AND busStopLon = :busStopLon")
     fun insertBusStopName(busStopName: String, busStopLat: Double, busStopLon: Double)
+
+    @Query("SELECT * FROM bus_stop WHERE busStopLat = :busStopLat")
+    fun findNearBusStops1(busStopLat: Double): List<BusStop>
+
+    @Query("SELECT * FROM bus_stop WHERE busStopName like :query")
+    fun searchBusStop(query: String): List<BusStop>
 }

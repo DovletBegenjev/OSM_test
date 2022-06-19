@@ -13,4 +13,8 @@
     <string name="navigate_button">Navigate</string>
     <string name="from_destination">From</string>
     <string name="to_destination">To</string>
+    <string name="search">Search</string>
+    <string name="bus_routes">Bus routes</string>
+    <string name="bus_stops">Bus stops</string>
+    <string name="main">Main</string>
 </resources>
